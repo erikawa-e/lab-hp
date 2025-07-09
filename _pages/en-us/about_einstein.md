@@ -1,8 +1,3 @@
----
-layout: profile
-title: Erika Kawakami
-permalink: /people/erika/
----
 
 Erika Kawakami is a researcher working on quantum computing using floating electrons in vacuum...
 
