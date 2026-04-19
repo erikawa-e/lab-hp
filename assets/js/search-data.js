@@ -83,345 +83,202 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/lab-hp/blog/";
               },
-            },{id: "post-a-post-with-plotly-js",
+            },{id: "post-great-news-to-share",
         
-          title: "a post with plotly.js",
+          title: "Great news to share",
         
-        description: "this is what included plotly.js code could look like",
+        description: "Hochan Chung receives Best Bachelor&#39;s Thesis Award",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/lab-hp/blog/2025/plotly/";
+            window.location.href = "/lab-hp/blog/2026/hochan-award/";
           
         },
-      },{id: "post-a-post-with-image-galleries",
+      },{id: "post-birthdays",
         
-          title: "a post with image galleries",
+          title: "Birthdays",
         
-        description: "this is what included image galleries could look like",
+        description: "Celebrating birthdays in the lab",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/lab-hp/blog/2024/photo-gallery/";
+            window.location.href = "/lab-hp/blog/2026/birthdays/";
           
         },
-      },{id: "post-a-post-with-tabs",
+      },{id: "post-our-review-article-on-quantum-computing-published-in-a-french-alumni-magazine",
         
-          title: "a post with tabs",
+          title: "Our Review Article on Quantum Computing Published in a French Alumni Magazine",
         
-        description: "this is what included tabs in a post could look like",
+        description: "Review article by Yamada, Giovansili, and Kawakami published in French alumni magazine",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/lab-hp/blog/2024/tabs/";
+            window.location.href = "/lab-hp/blog/2026/french-review-article/";
           
         },
-      },{id: "post-a-post-with-typograms",
+      },{id: "post-great-news-to-share",
         
-          title: "a post with typograms",
+          title: "Great news to share",
         
-        description: "this is what included typograms code could look like",
+        description: "Poster award and PRL paper featured in RIKEN Research News",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/lab-hp/blog/2024/typograms/";
+            window.location.href = "/lab-hp/blog/2026/poster-award-prl-news/";
           
         },
-      },{id: "post-a-post-that-can-be-cited",
+      },{id: "post-tetsu-39-s-farewell-party-sep-16th",
         
-          title: "a post that can be cited",
+          title: "Tetsu&#39;s farewell party @Sep 16th",
         
-        description: "this is what a post that can be cited looks like",
+        description: "Farewell party for Tetsuyoshi Yamada",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/lab-hp/blog/2024/post-citation/";
+            window.location.href = "/lab-hp/blog/2025/tetsu-farewell/";
           
         },
-      },{id: "post-a-post-with-pseudo-code",
+      },{id: "post-international-collaborative-project",
         
-          title: "a post with pseudo code",
+          title: "International collaborative project",
         
-        description: "this is what included pseudo code could look like",
+        description: "JST ASPIRE project selected for international collaboration",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/lab-hp/blog/2024/pseudocode/";
+            window.location.href = "/lab-hp/blog/2025/jst-aspire/";
           
         },
-      },{id: "post-a-post-with-code-diff",
+      },{id: "post-great-news-to-share",
         
-          title: "a post with code diff",
+          title: "Great News to Share",
         
-        description: "this is how you can display code diffs",
+        description: "PRL paper selected as Editors&#39; Suggestion and poster award at LT30",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/lab-hp/blog/2024/code-diff/";
+            window.location.href = "/lab-hp/blog/2025/prl-editors-suggestion/";
           
         },
-      },{id: "post-a-post-with-advanced-image-components",
+      },{id: "post-sander-39-s-farewell-party",
         
-          title: "a post with advanced image components",
+          title: "Sander&#39;s Farewell party",
         
-        description: "this is what advanced image components could look like",
+        description: "Farewell party for Sander van Haagen",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/lab-hp/blog/2024/advanced-images/";
+            window.location.href = "/lab-hp/blog/2024/sander-farewell/";
           
         },
-      },{id: "post-a-post-with-vega-lite",
+      },{id: "post-fcp-workshop-at-oist",
         
-          title: "a post with vega lite",
+          title: "FCP workshop at OIST",
         
-        description: "this is what included vega lite code could look like",
+        description: "Team presents at quantum technology workshop at OIST",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/lab-hp/blog/2024/vega-lite/";
+            window.location.href = "/lab-hp/blog/2024/fcp-workshop-oist/";
           
         },
-      },{id: "post-a-post-with-geojson",
+      },{id: "post-cherry-blossoms-burst-into-bloom-at-riken",
         
-          title: "a post with geojson",
+          title: "Cherry blossoms burst into bloom at RIKEN",
         
-        description: "this is what included geojson code could look like",
+        description: "Spring cherry blossoms at RIKEN Wako campus",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/lab-hp/blog/2024/geojson-map/";
+            window.location.href = "/lab-hp/blog/2024/cherry-blossoms-2024/";
           
         },
-      },{id: "post-a-post-with-echarts",
+      },{id: "post-our-article-was-featured-in-research-news",
         
-          title: "a post with echarts",
+          title: "Our article was featured in Research News!",
         
-        description: "this is what included echarts code could look like",
+        description: "Research paper featured in RIKEN Research News",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/lab-hp/blog/2024/echarts/";
+            window.location.href = "/lab-hp/blog/2024/research-news/";
           
         },
-      },{id: "post-a-post-with-chart-js",
+      },{id: "post-xianjing-39-s-farewell-party-june-28th",
         
-          title: "a post with chart.js",
+          title: "Xianjing&#39;s farewell party @June 28th",
         
-        description: "this is what included chart.js code could look like",
+        description: "Farewell party for Xianjing Zhou",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/lab-hp/blog/2024/chartjs/";
+            window.location.href = "/lab-hp/blog/2023/xianjing-farewell/";
           
         },
-      },{id: "post-a-post-with-tikzjax",
+      },{id: "post-ivan-39-s-poster-received-the-best-poster-award-at-ult2022",
         
-          title: "a post with TikZJax",
+          title: "Ivan&#39;s poster received the best poster award at ULT2022!",
         
-        description: "this is what included TikZ code could look like",
+        description: "Best poster award at ULT2022 conference",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/lab-hp/blog/2023/tikzjax/";
+            window.location.href = "/lab-hp/blog/2022/ivan-best-poster-ult2022/";
           
         },
-      },{id: "post-a-post-with-bibliography",
+      },{id: "post-cherry-blossoms-burst-into-bloom-at-riken",
         
-          title: "a post with bibliography",
+          title: "Cherry blossoms burst into bloom at RIKEN",
         
-        description: "an example of a blog post with bibliography",
+        description: "Spring cherry blossoms at RIKEN Wako campus",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/lab-hp/blog/2023/post-bibliography/";
+            window.location.href = "/lab-hp/blog/2022/cherry-blossoms-2022/";
           
         },
-      },{id: "post-a-post-with-jupyter-notebook",
+      },{id: "post-a-new-article-got-published-on-nextrendasia",
         
-          title: "a post with jupyter notebook",
+          title: "A new article got published on nextrendasia!",
         
-        description: "an example of a blog post with jupyter notebook",
+        description: "New outreach article published on nextrendasia",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/lab-hp/blog/2023/jupyter-notebook/";
+            window.location.href = "/lab-hp/blog/2021/nextrendasia-article/";
           
         },
-      },{id: "post-a-post-with-custom-blockquotes",
+      },{id: "post-やっぱり物理が好き",
         
-          title: "a post with custom blockquotes",
+          title: "やっぱり物理が好き",
         
-        description: "an example of a blog post with custom blockquotes",
+        description: "Erika gives a talk at the 6th &quot;Yappari Butsuri ga Suki!&quot; event",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/lab-hp/blog/2023/custom-blockquotes/";
+            window.location.href = "/lab-hp/blog/2021/yappari-butsuri/";
           
         },
-      },{id: "post-a-post-with-table-of-contents-on-a-sidebar",
+      },{id: "post-量子ictインタビュー",
         
-          title: "a post with table of contents on a sidebar",
+          title: "量子ICTインタビュー",
         
-        description: "an example of a blog post with table of contents on a sidebar",
+        description: "Erika interviewed by Quantum ICT Forum",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/lab-hp/blog/2023/sidebar-table-of-contents/";
+            window.location.href = "/lab-hp/blog/2021/quantum-ict-interview/";
           
         },
-      },{id: "post-a-post-with-audios",
+      },{id: "post-qfs2021",
         
-          title: "a post with audios",
+          title: "QFS2021",
         
-        description: "this is what included audios could look like",
+        description: "QFS2021 conference",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/lab-hp/blog/2023/audios/";
-          
-        },
-      },{id: "post-a-post-with-videos",
-        
-          title: "a post with videos",
-        
-        description: "this is what included videos could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/lab-hp/blog/2023/videos/";
-          
-        },
-      },{id: "post-displaying-beautiful-tables-with-bootstrap-tables",
-        
-          title: "displaying beautiful tables with Bootstrap Tables",
-        
-        description: "an example of how to use Bootstrap Tables",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/lab-hp/blog/2023/tables/";
-          
-        },
-      },{id: "post-a-post-with-table-of-contents",
-        
-          title: "a post with table of contents",
-        
-        description: "an example of a blog post with table of contents",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/lab-hp/blog/2023/table-of-contents/";
-          
-        },
-      },{id: "post-a-post-with-giscus-comments",
-        
-          title: "a post with giscus comments",
-        
-        description: "an example of a blog post with giscus comments",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/lab-hp/blog/2022/giscus-comments/";
-          
-        },
-      },{id: "post-a-post-with-redirect",
-        
-          title: 'a post with redirect <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "you can also redirect to assets like pdf",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://riken-share.box.com/s/xv9oj2sux7ms2zggatrbcfh1dd9jft0r", "_blank");
-          
-        },
-      },{id: "post-a-post-with-diagrams",
-        
-          title: "a post with diagrams",
-        
-        description: "an example of a blog post with diagrams",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/lab-hp/blog/2021/diagrams/";
-          
-        },
-      },{id: "post-a-post-with-twitter",
-        
-          title: "a post with twitter",
-        
-        description: "an example of a blog post with twitter",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/lab-hp/blog/2020/twitter/";
-          
-        },
-      },{id: "post-a-distill-style-blog-post",
-        
-          title: "a distill-style blog post",
-        
-        description: "an example of a distill-style blog post and main elements",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/lab-hp/blog/2018/distill/";
-          
-        },
-      },{id: "post-a-post-with-disqus-comments",
-        
-          title: "a post with disqus comments",
-        
-        description: "an example of a blog post with disqus comments",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/lab-hp/blog/2015/disqus-comments/";
-          
-        },
-      },{id: "post-a-post-with-math",
-        
-          title: "a post with math",
-        
-        description: "an example of a blog post with some math",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/lab-hp/blog/2015/math/";
-          
-        },
-      },{id: "post-a-post-with-code",
-        
-          title: "a post with code",
-        
-        description: "an example of a blog post with some code",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/lab-hp/blog/2015/code/";
-          
-        },
-      },{id: "post-a-post-with-images",
-        
-          title: "a post with images",
-        
-        description: "this is what included images could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/lab-hp/blog/2015/images/";
-          
-        },
-      },{id: "post-a-post-with-formatting-and-links",
-        
-          title: "a post with formatting and links",
-        
-        description: "march &amp; april, looking forward to summer",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/lab-hp/blog/2015/formatting-and-links/";
+            window.location.href = "/lab-hp/blog/2021/qfs2021/";
           
         },
       },{id: "books-the-godfather",
