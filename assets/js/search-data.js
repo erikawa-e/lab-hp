@@ -34,6 +34,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/lab-hp/publications/";
           },
+        },{id: "nav-people",
+          title: "people",
+          description: "Members of the FEBQI research team",
+          section: "Navigation menu",
+          handler: () => {
+            window.location.href = "/lab-hp/people/";
+          },
         },{id: "nav-projects",
           title: "projects",
           description: "A growing collection of your cool projects.",
@@ -61,13 +68,6 @@ ninja.data = [{
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/lab-hp/teaching/";
-          },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation menu",
-          handler: () => {
-            window.location.href = "/lab-hp/people/";
           },
         },{id: "dropdown-bookshelf",
               title: "bookshelf",
@@ -103,17 +103,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/lab-hp/blog/2024/photo-gallery/";
-          
-        },
-      },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
-        
-          title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "We’re sharing updates across our Gemini family of models and a glimpse of Project Astra, our vision for the future of AI assistants.",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
           
         },
       },{id: "post-a-post-with-tabs",
@@ -336,17 +325,6 @@ ninja.data = [{
             window.location.href = "/lab-hp/blog/2022/giscus-comments/";
           
         },
-      },{id: "post-displaying-external-posts-on-your-al-folio-blog",
-        
-          title: 'Displaying External Posts on Your al-folio Blog <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
-          
-        },
       },{id: "post-a-post-with-redirect",
         
           title: 'a post with redirect <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
@@ -451,16 +429,14 @@ ninja.data = [{
           description: "",
           section: "",handler: () => {
               window.location.href = "/lab-hp/books/en-us/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-new-cryogenic-microwave-source-developed-using-a-tunnel-diode-oscillator-achieving-superior-amplitude-stability-compared-to-commercial-sources",
+          title: 'New cryogenic microwave source developed using a tunnel diode oscillator — achieving superior...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-we-are-recruiting-postdocs-and-interns-3-months-contact-erika-kawakami-riken-jp-for-details",
+          title: 'We are recruiting postdocs and interns (3+ months). Contact erika.kawakami@riken.jp for details.',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/lab-hp/news/en-us/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-our-plasmon-paper-is-now-on-arxiv-new-results-on-collective-excitations-plasmon-modes-of-electrons-floating-on-liquid-helium",
+          title: 'Our plasmon paper is now on arXiv! New results on collective excitations (plasmon...',
           description: "",
           section: "News",},{id: "projects-project-7",
           title: 'project 7',
@@ -477,19 +453,19 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/lab-hp/projects/9_project/";
-            },},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+            },},{id: "projects-electrons-on-liquid-helium",
+          title: 'Electrons on Liquid Helium',
+          description: "Scalable electron spin qubits in a pristine environment",
           section: "Projects",handler: () => {
               window.location.href = "/lab-hp/projects/en-us/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-electrons-on-solid-neon",
+          title: 'Electrons on Solid Neon',
+          description: "Long coherence quantum memory using charge and spin states",
           section: "Projects",handler: () => {
               window.location.href = "/lab-hp/projects/en-us/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-cryogenic-electronics",
+          title: 'Cryogenic Electronics',
+          description: "Cryogenic microwave sources for scaling up qubit numbers",
           section: "Projects",handler: () => {
               window.location.href = "/lab-hp/projects/en-us/3_project/";
             },},{id: "projects-project-4",
@@ -512,7 +488,7 @@ ninja.data = [{
         title: 'Send an email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%72%69%6B%65%6E%45%6F%6E%48%65@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
         id: 'social-inspire',
@@ -536,25 +512,11 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
-        },
-      },{
-          id: 'lang-pt-br',
-          title: 'pt-br',
+          id: 'lang-ja',
+          title: 'ja',
           section: 'Languages',
           handler: () => {
-            window.location.href = "/lab-hp/pt-br" + updatedUrl;
-          },
-        },{
-          id: 'lang-fr-ca',
-          title: 'fr-ca',
-          section: 'Languages',
-          handler: () => {
-            window.location.href = "/lab-hp/fr-ca" + updatedUrl;
+            window.location.href = "/lab-hp/ja" + updatedUrl;
           },
         },{
       id: 'light-theme',

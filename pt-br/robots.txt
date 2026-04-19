@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://erikawa-e.github.io/lab-hp/sitemap.xml
