@@ -20,9 +20,9 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/lab-hp/ja/";
     },
-  },{id: "nav-blog",
-          title: "blog",
-          description: "um tema simples para acadêmicos",
+  },{id: "nav-ブログ",
+          title: "ブログ",
+          description: "研究室のニュースとアップデート",
           section: "",
           handler: () => {
             window.location.href = "/lab-hp/ja/blog/";
@@ -90,165 +90,165 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/lab-hp/ja/blog/";
               },
-            },{id: "post-great-news-to-share",
+            },{id: "post-嬉しいニュース",
         
-          title: "Great news to share",
+          title: "嬉しいニュース",
         
-        description: "Hochan Chung receives Best Bachelor&#39;s Thesis Award",
+        description: "Hochan Chungが学士論文優秀賞を受賞",
         section: "",
         handler: () => {
           
             window.location.href = "/lab-hp/ja/blog/2026/hochan-award/";
           
         },
-      },{id: "post-birthdays",
+      },{id: "post-お誕生日おめでとう",
         
-          title: "Birthdays",
+          title: "お誕生日おめでとう",
         
-        description: "Celebrating birthdays in the lab",
+        description: "研究室のお誕生日のお祝い",
         section: "",
         handler: () => {
           
             window.location.href = "/lab-hp/ja/blog/2026/birthdays/";
           
         },
-      },{id: "post-our-review-article-on-quantum-computing-published-in-a-french-alumni-magazine",
+      },{id: "post-フランスの同窓会誌に量子コンピューティングの解説記事が掲載",
         
-          title: "Our Review Article on Quantum Computing Published in a French Alumni Magazine",
+          title: "フランスの同窓会誌に量子コンピューティングの解説記事が掲載",
         
-        description: "Review article by Yamada, Giovansili, and Kawakami published in French alumni magazine",
+        description: "山田、Giovansili、川上による解説記事がフランスの同窓会誌に掲載",
         section: "",
         handler: () => {
           
             window.location.href = "/lab-hp/ja/blog/2026/french-review-article/";
           
         },
-      },{id: "post-great-news-to-share",
+      },{id: "post-嬉しいニュース",
         
-          title: "Great news to share",
+          title: "嬉しいニュース",
         
-        description: "Poster award and PRL paper featured in RIKEN Research News",
+        description: "ポスター賞受賞とPRL論文がRIKEN Research Newsに掲載",
         section: "",
         handler: () => {
           
             window.location.href = "/lab-hp/ja/blog/2026/poster-award-prl-news/";
           
         },
-      },{id: "post-tetsu-39-s-farewell-party-sep-16th",
+      },{id: "post-tetsuの送別会-9月16日",
         
-          title: "Tetsu&#39;s farewell party @Sep 16th",
+          title: "Tetsuの送別会 @9月16日",
         
-        description: "Farewell party for Tetsuyoshi Yamada",
+        description: "山田哲義の送別会",
         section: "",
         handler: () => {
           
             window.location.href = "/lab-hp/ja/blog/2025/tetsu-farewell/";
           
         },
-      },{id: "post-international-collaborative-project",
+      },{id: "post-国際共同研究プロジェクト採択",
         
-          title: "International collaborative project",
+          title: "国際共同研究プロジェクト採択",
         
-        description: "JST ASPIRE project selected for international collaboration",
+        description: "JST ASPIREプログラムに採択",
         section: "",
         handler: () => {
           
             window.location.href = "/lab-hp/ja/blog/2025/jst-aspire/";
           
         },
-      },{id: "post-great-news-to-share",
+      },{id: "post-嬉しいニュース",
         
-          title: "Great News to Share",
+          title: "嬉しいニュース",
         
-        description: "PRL paper selected as Editors&#39; Suggestion and poster award at LT30",
+        description: "PRL論文がEditors&#39; Suggestionに選出、LT30でポスター賞受賞",
         section: "",
         handler: () => {
           
             window.location.href = "/lab-hp/ja/blog/2025/prl-editors-suggestion/";
           
         },
-      },{id: "post-sander-39-s-farewell-party",
+      },{id: "post-sanderの送別会",
         
-          title: "Sander&#39;s Farewell party",
+          title: "Sanderの送別会",
         
-        description: "Farewell party for Sander van Haagen",
+        description: "Sander van Haagenの送別会",
         section: "",
         handler: () => {
           
             window.location.href = "/lab-hp/ja/blog/2024/sander-farewell/";
           
         },
-      },{id: "post-fcp-workshop-at-oist",
+      },{id: "post-oistでfcpワークショップ",
         
-          title: "FCP workshop at OIST",
+          title: "OISTでFCPワークショップ",
         
-        description: "Team presents at quantum technology workshop at OIST",
+        description: "OISTでの量子技術ワークショップに参加",
         section: "",
         handler: () => {
           
             window.location.href = "/lab-hp/ja/blog/2024/fcp-workshop-oist/";
           
         },
-      },{id: "post-cherry-blossoms-burst-into-bloom-at-riken",
+      },{id: "post-rikenの桜が満開",
         
-          title: "Cherry blossoms burst into bloom at RIKEN",
+          title: "RIKENの桜が満開",
         
-        description: "Spring cherry blossoms at RIKEN Wako campus",
+        description: "RIKEN和光キャンパスの春の桜",
         section: "",
         handler: () => {
           
             window.location.href = "/lab-hp/ja/blog/2024/cherry-blossoms-2024/";
           
         },
-      },{id: "post-our-article-was-featured-in-research-news",
+      },{id: "post-研究成果がresearch-newsに掲載",
         
-          title: "Our article was featured in Research News!",
+          title: "研究成果がResearch Newsに掲載！",
         
-        description: "Research paper featured in RIKEN Research News",
+        description: "研究論文がRIKEN Research Newsで紹介",
         section: "",
         handler: () => {
           
             window.location.href = "/lab-hp/ja/blog/2024/research-news/";
           
         },
-      },{id: "post-xianjing-39-s-farewell-party-june-28th",
+      },{id: "post-xianjingの送別会-6月28日",
         
-          title: "Xianjing&#39;s farewell party @June 28th",
+          title: "Xianjingの送別会 @6月28日",
         
-        description: "Farewell party for Xianjing Zhou",
+        description: "Xianjing Zhouの送別会",
         section: "",
         handler: () => {
           
             window.location.href = "/lab-hp/ja/blog/2023/xianjing-farewell/";
           
         },
-      },{id: "post-ivan-39-s-poster-received-the-best-poster-award-at-ult2022",
+      },{id: "post-ivanがult2022でベストポスター賞受賞",
         
-          title: "Ivan&#39;s poster received the best poster award at ULT2022!",
+          title: "IvanがULT2022でベストポスター賞受賞！",
         
-        description: "Best poster award at ULT2022 conference",
+        description: "ULT2022でベストポスター賞受賞",
         section: "",
         handler: () => {
           
             window.location.href = "/lab-hp/ja/blog/2022/ivan-best-poster-ult2022/";
           
         },
-      },{id: "post-cherry-blossoms-burst-into-bloom-at-riken",
+      },{id: "post-rikenの桜が満開",
         
-          title: "Cherry blossoms burst into bloom at RIKEN",
+          title: "RIKENの桜が満開",
         
-        description: "Spring cherry blossoms at RIKEN Wako campus",
+        description: "RIKEN和光キャンパスの春の桜",
         section: "",
         handler: () => {
           
             window.location.href = "/lab-hp/ja/blog/2022/cherry-blossoms-2022/";
           
         },
-      },{id: "post-a-new-article-got-published-on-nextrendasia",
+      },{id: "post-nextrendasiaに記事が掲載",
         
-          title: "A new article got published on nextrendasia!",
+          title: "nextrendasiaに記事が掲載！",
         
-        description: "New outreach article published on nextrendasia",
+        description: "nextrendasiaに研究紹介記事が掲載",
         section: "",
         handler: () => {
           
@@ -259,7 +259,7 @@ ninja.data = [{
         
           title: "やっぱり物理が好き",
         
-        description: "Erika gives a talk at the 6th &quot;Yappari Butsuri ga Suki!&quot; event",
+        description: "第6回「やっぱり物理が好き！」で講演",
         section: "",
         handler: () => {
           
@@ -270,7 +270,7 @@ ninja.data = [{
         
           title: "量子ICTインタビュー",
         
-        description: "Erika interviewed by Quantum ICT Forum",
+        description: "量子ICTフォーラムのインタビュー",
         section: "",
         handler: () => {
           
@@ -281,7 +281,7 @@ ninja.data = [{
         
           title: "QFS2021",
         
-        description: "QFS2021 conference",
+        description: "QFS2021国際会議",
         section: "",
         handler: () => {
           
