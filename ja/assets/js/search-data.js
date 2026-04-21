@@ -27,9 +27,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/lab-hp/ja/blog/";
           },
-        },{id: "nav-publicações",
-          title: "publicações",
-          description: "publicações por categoria em ordem cronológica reversa. gerado pelo jekyll-scholar.",
+        },{id: "nav-発表論文",
+          title: "発表論文",
+          description: "発表論文一覧（新しい順）。jekyll-scholarにより自動生成。",
           section: "",
           handler: () => {
             window.location.href = "/lab-hp/ja/publications/";
