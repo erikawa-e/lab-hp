@@ -57,7 +57,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "Esta é uma descrição da página. Você pode modificá-la em &#39;_pages/cv.md&#39;. Também pode alterar ou remover o botão no topo de download de pdf.",
+          description: "川上恵里加 — 業績一覧",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/lab-hp/ja/cv/";
@@ -97,7 +97,14 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/lab-hp/ja/blog/";
               },
-            },{id: "post-",
+            },{id: "nav-アクセス",
+          title: "アクセス",
+          description: "研究室へのアクセス",
+          section: "Navigation menu",
+          handler: () => {
+            window.location.href = "/lab-hp/ja/access/";
+          },
+        },{id: "post-",
         
           title: "",
         

@@ -57,7 +57,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "Curriculum Vitae — Erika Kawakami",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/lab-hp/cv/";
@@ -90,7 +90,14 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/lab-hp/blog/";
               },
-            },{id: "post-",
+            },{id: "nav-access",
+          title: "access",
+          description: "How to find us",
+          section: "Navigation menu",
+          handler: () => {
+            window.location.href = "/lab-hp/access/";
+          },
+        },{id: "post-",
         
           title: "",
         
