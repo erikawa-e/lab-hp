@@ -313,51 +313,36 @@ ninja.data = [{
           section: "News",},{id: "news-our-plasmon-paper-is-now-on-arxiv-new-results-on-collective-excitations-plasmon-modes-of-electrons-floating-on-liquid-helium",
           title: 'Our plasmon paper is now on arXiv! New results on collective excitations (plasmon...',
           description: "",
-          section: "News",},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/lab-hp/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/lab-hp/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/lab-hp/projects/9_project/";
-            },},{id: "projects-electrons-on-liquid-helium",
+          section: "News",},{id: "projects-electrons-on-liquid-helium",
           title: 'Electrons on Liquid Helium',
           description: "Scalable electron spin qubits in a pristine environment",
           section: "Projects",handler: () => {
-              window.location.href = "/lab-hp/projects/en-us/1_project/";
+              window.location.href = "/lab-hp/projects/1-project/";
             },},{id: "projects-electrons-on-solid-neon",
           title: 'Electrons on Solid Neon',
           description: "Long coherence quantum memory using charge and spin states",
           section: "Projects",handler: () => {
-              window.location.href = "/lab-hp/projects/en-us/2_project/";
+              window.location.href = "/lab-hp/projects/2-project/";
             },},{id: "projects-cryogenic-electronics",
           title: 'Cryogenic Electronics',
           description: "Cryogenic microwave sources for scaling up qubit numbers",
           section: "Projects",handler: () => {
-              window.location.href = "/lab-hp/projects/en-us/3_project/";
+              window.location.href = "/lab-hp/projects/3-project/";
             },},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
           section: "Projects",handler: () => {
-              window.location.href = "/lab-hp/projects/en-us/4_project/";
+              window.location.href = "/lab-hp/projects/4-project/";
             },},{id: "projects-project-5",
           title: 'project 5',
           description: "a project with a background image",
           section: "Projects",handler: () => {
-              window.location.href = "/lab-hp/projects/en-us/5_project/";
+              window.location.href = "/lab-hp/projects/5-project/";
             },},{id: "projects-project-6",
           title: 'project 6',
           description: "a project with no image",
           section: "Projects",handler: () => {
-              window.location.href = "/lab-hp/projects/en-us/6_project/";
+              window.location.href = "/lab-hp/projects/6-project/";
             },},{
         id: 'social-email',
         title: 'Send an email',

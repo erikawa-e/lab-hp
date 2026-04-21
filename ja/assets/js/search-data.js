@@ -320,51 +320,36 @@ ninja.data = [{
           section: "News",},{id: "news-プラズモン論文がarxivに公開されました-液体ヘリウム表面上の浮揚電子の集団励起-プラズモンモード-に関する新しい研究成果です",
           title: 'プラズモン論文がarXivに公開されました！液体ヘリウム表面上の浮揚電子の集団励起（プラズモンモード）に関する新しい研究成果です。',
           description: "",
-          section: "News",},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/lab-hp/ja/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/lab-hp/ja/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/lab-hp/ja/projects/9_project/";
-            },},{id: "projects-液体ヘリウム上の電子",
+          section: "News",},{id: "projects-液体ヘリウム上の電子",
           title: '液体ヘリウム上の電子',
           description: "清浄な環境でのスケーラブルな電子スピン量子ビット",
           section: "Projects",handler: () => {
-              window.location.href = "/lab-hp/ja/projects/ja/1_project/";
+              window.location.href = "/lab-hp/ja/projects/1-project/";
             },},{id: "projects-固体ネオン上の電子",
           title: '固体ネオン上の電子',
           description: "単一電子の電荷・スピン量子ビットの実現",
           section: "Projects",handler: () => {
-              window.location.href = "/lab-hp/ja/projects/ja/2_project/";
+              window.location.href = "/lab-hp/ja/projects/2-project/";
             },},{id: "projects-極低温エレクトロニクス",
           title: '極低温エレクトロニクス',
           description: "量子ビット数の拡張に向けた極低温マイクロ波源の開発",
           section: "Projects",handler: () => {
-              window.location.href = "/lab-hp/ja/projects/ja/3_project/";
+              window.location.href = "/lab-hp/ja/projects/3-project/";
             },},{id: "projects-projeto-4",
           title: 'projeto 4',
           description: "outro sem imagem",
           section: "Projects",handler: () => {
-              window.location.href = "/lab-hp/ja/projects/ja/4_project/";
+              window.location.href = "/lab-hp/ja/projects/4-project/";
             },},{id: "projects-projeto-5",
           title: 'projeto 5',
           description: "um projeto com imagem de fundo",
           section: "Projects",handler: () => {
-              window.location.href = "/lab-hp/ja/projects/ja/5_project/";
+              window.location.href = "/lab-hp/ja/projects/5-project/";
             },},{id: "projects-projeto-6",
           title: 'projeto 6',
           description: "um projeto sem imagem",
           section: "Projects",handler: () => {
-              window.location.href = "/lab-hp/ja/projects/ja/6_project/";
+              window.location.href = "/lab-hp/ja/projects/6-project/";
             },},{
         id: 'social-email',
         title: 'Send an email',
