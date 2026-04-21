@@ -218,9 +218,9 @@ ninja.data = [{
             window.location.href = "/lab-hp/ja/blog/2024/research-news/";
           
         },
-      },{id: "post-xianjingの送別会-6月28日",
+      },{id: "post-xianjingの送別会",
         
-          title: "Xianjingの送別会 @6月28日",
+          title: "Xianjingの送別会",
         
         description: "Xianjing Zhouの送別会",
         section: "",

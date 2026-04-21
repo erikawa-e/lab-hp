@@ -211,9 +211,9 @@ ninja.data = [{
             window.location.href = "/lab-hp/blog/2024/research-news/";
           
         },
-      },{id: "post-xianjing-39-s-farewell-party-june-28th",
+      },{id: "post-xianjing-39-s-farewell-party",
         
-          title: "Xianjing&#39;s farewell party @June 28th",
+          title: "Xianjing&#39;s farewell party",
         
         description: "Farewell party for Xianjing Zhou",
         section: "Posts",
