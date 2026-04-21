@@ -69,6 +69,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/lab-hp/ja/teaching/";
           },
+        },{id: "nav-アウトリーチ",
+          title: "アウトリーチ",
+          description: "解説記事・一般向け講演など",
+          section: "",
+          handler: () => {
+            window.location.href = "/lab-hp/ja/outreach/";
+          },
         },{id: "dropdown-publicações",
               title: "publicações",
               description: "",
