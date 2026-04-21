@@ -134,17 +134,6 @@ ninja.data = [{
             window.location.href = "/lab-hp/ja/blog/2026/poster-award-prl-news/";
           
         },
-      },{id: "post-tetsuの送別会-9月16日",
-        
-          title: "Tetsuの送別会 @9月16日",
-        
-        description: "山田哲義の送別会",
-        section: "",
-        handler: () => {
-          
-            window.location.href = "/lab-hp/ja/blog/2025/tetsu-farewell/";
-          
-        },
       },{id: "post-国際共同研究プロジェクト採択",
         
           title: "国際共同研究プロジェクト採択",
@@ -154,6 +143,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/lab-hp/ja/blog/2025/jst-aspire/";
+          
+        },
+      },{id: "post-tetsuの送別会",
+        
+          title: "Tetsuの送別会",
+        
+        description: "山田哲義の送別会",
+        section: "",
+        handler: () => {
+          
+            window.location.href = "/lab-hp/ja/blog/2025/tetsu-farewell/";
           
         },
       },{id: "post-嬉しいニュース",
@@ -324,7 +324,7 @@ ninja.data = [{
               window.location.href = "/lab-hp/ja/projects/ja/1_project/";
             },},{id: "projects-固体ネオン上の電子",
           title: '固体ネオン上の電子',
-          description: "電荷・スピン状態の長いコヒーレンスを利用した量子メモリ",
+          description: "単一電子の電荷・スピン量子ビットの実現",
           section: "",handler: () => {
               window.location.href = "/lab-hp/ja/projects/ja/2_project/";
             },},{id: "projects-極低温エレクトロニクス",

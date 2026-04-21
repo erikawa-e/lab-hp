@@ -127,17 +127,6 @@ ninja.data = [{
             window.location.href = "/lab-hp/blog/2026/poster-award-prl-news/";
           
         },
-      },{id: "post-tetsu-39-s-farewell-party-sep-16th",
-        
-          title: "Tetsu&#39;s farewell party @Sep 16th",
-        
-        description: "Farewell party for Tetsuyoshi Yamada",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/lab-hp/blog/2025/tetsu-farewell/";
-          
-        },
       },{id: "post-international-collaborative-project",
         
           title: "International collaborative project",
@@ -147,6 +136,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/lab-hp/blog/2025/jst-aspire/";
+          
+        },
+      },{id: "post-tetsu-39-s-farewell-party",
+        
+          title: "Tetsu&#39;s farewell party",
+        
+        description: "Farewell party for Tetsuyoshi Yamada",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/lab-hp/blog/2025/tetsu-farewell/";
           
         },
       },{id: "post-great-news-to-share",
