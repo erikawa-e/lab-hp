@@ -90,7 +90,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/lab-hp/blog/";
               },
-            },{id: "post-great-news-to-share",
+            },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/lab-hp/blog/2026/2021-11-04-yappari-butsuri/";
+          
+        },
+      },{id: "post-great-news-to-share",
         
           title: "Great news to share",
         
@@ -259,16 +270,16 @@ ninja.data = [{
         
           title: "やっぱり物理が好き",
         
-        description: "Erika gives a talk at the 6th &quot;Yappari Butsuri ga Suki!&quot; event",
+        description: "第6回「やっぱり物理が好き！」で講演",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/lab-hp/blog/2021/yappari-butsuri/";
           
         },
-      },{id: "post-量子ictインタビュー",
+      },{id: "post-quantum-ict-forum-interview",
         
-          title: "量子ICTインタビュー",
+          title: "Quantum ICT Forum Interview",
         
         description: "Erika interviewed by Quantum ICT Forum",
         section: "Posts",

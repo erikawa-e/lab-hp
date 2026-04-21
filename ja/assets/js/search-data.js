@@ -97,7 +97,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/lab-hp/ja/blog/";
               },
-            },{id: "post-嬉しいニュース",
+            },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "",
+        handler: () => {
+          
+            window.location.href = "/lab-hp/ja/blog/2026/2021-11-04-yappari-butsuri/";
+          
+        },
+      },{id: "post-嬉しいニュース",
         
           title: "嬉しいニュース",
         
