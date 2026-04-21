@@ -41,15 +41,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/lab-hp/ja/people/";
           },
-        },{id: "nav-projetos",
-          title: "projetos",
+        },{id: "nav-プロジェクト",
+          title: "プロジェクト",
           description: "Uma crescente coleção de seus projetos interessantes.",
           section: "",
           handler: () => {
             window.location.href = "/lab-hp/ja/projects/";
           },
-        },{id: "nav-repositórios",
-          title: "repositórios",
+        },{id: "nav-リポジトリ",
+          title: "リポジトリ",
           description: "Edite o `_data/repositories.yml` e mude as listas `github_users` e `github_repos` para incluir seu próprio perfil do GitHub e repositórios.",
           section: "",
           handler: () => {
@@ -62,8 +62,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/lab-hp/ja/cv/";
           },
-        },{id: "nav-ensino",
-          title: "ensino",
+        },{id: "nav-教育",
+          title: "教育",
           description: "Materiais de cursos que você ministrou. Substitua esse texto com sua descrição.",
           section: "",
           handler: () => {
