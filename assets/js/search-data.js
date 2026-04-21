@@ -22,7 +22,7 @@ ninja.data = [{
     },
   },{id: "nav-blog",
           title: "blog",
-          description: "a simple whitespace theme for academics",
+          description: "Lab news and updates",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/lab-hp/blog/";
