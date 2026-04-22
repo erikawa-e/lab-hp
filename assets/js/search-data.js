@@ -34,6 +34,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/lab-hp/publications/";
           },
+        },{id: "nav-presentations",
+          title: "presentations",
+          description: "Oral and poster presentations.",
+          section: "Navigation menu",
+          handler: () => {
+            window.location.href = "/lab-hp/presentations/";
+          },
         },{id: "nav-people",
           title: "people",
           description: "Members of the FEBQI research team",

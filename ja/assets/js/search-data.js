@@ -34,6 +34,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/lab-hp/ja/publications/";
           },
+        },{id: "nav-発表",
+          title: "発表",
+          description: "口頭・ポスター発表一覧。",
+          section: "Navigation menu",
+          handler: () => {
+            window.location.href = "/lab-hp/ja/presentations/";
+          },
         },{id: "nav-メンバー",
           title: "メンバー",
           description: "FEBQIチームのメンバー",
