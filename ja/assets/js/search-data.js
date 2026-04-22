@@ -144,6 +144,17 @@ ninja.data = [{
             window.location.href = "/lab-hp/ja/blog/2026/birthdays/";
           
         },
+      },{id: "post-プラズモン論文をarxivに公開",
+        
+          title: "プラズモン論文をarXivに公開",
+        
+        description: "プラズモン論文をarXivに公開しました",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/lab-hp/ja/blog/2026/plasmon-arxiv/";
+          
+        },
       },{id: "post-フランスの同窓会誌に量子コンピューティングの解説記事が掲載",
         
           title: "フランスの同窓会誌に量子コンピューティングの解説記事が掲載",

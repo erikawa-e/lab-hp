@@ -137,6 +137,17 @@ ninja.data = [{
             window.location.href = "/lab-hp/blog/2026/birthdays/";
           
         },
+      },{id: "post-plasmon-paper-posted-on-arxiv",
+        
+          title: "Plasmon paper posted on arXiv",
+        
+        description: "Our plasmon paper is now on arXiv",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/lab-hp/blog/2026/plasmon-arxiv/";
+          
+        },
       },{id: "post-our-review-article-on-quantum-computing-published-in-a-french-alumni-magazine",
         
           title: "Our Review Article on Quantum Computing Published in a French Alumni Magazine",
