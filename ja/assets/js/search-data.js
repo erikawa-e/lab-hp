@@ -34,6 +34,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/lab-hp/ja/publications/";
           },
+        },{id: "nav-発表",
+          title: "発表",
+          description: "口頭・ポスター発表一覧。",
+          section: "Navigation menu",
+          handler: () => {
+            window.location.href = "/lab-hp/ja/presentations/";
+          },
         },{id: "nav-メンバー",
           title: "メンバー",
           description: "FEBQIチームのメンバー",
@@ -137,6 +144,17 @@ ninja.data = [{
             window.location.href = "/lab-hp/ja/blog/2026/birthdays/";
           
         },
+      },{id: "post-プラズモン論文をarxivに公開",
+        
+          title: "プラズモン論文をarXivに公開",
+        
+        description: "プラズモン論文をarXivに公開しました",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/lab-hp/ja/blog/2026/plasmon-arxiv/";
+          
+        },
       },{id: "post-フランスの同窓会誌に量子コンピューティングの解説記事が掲載",
         
           title: "フランスの同窓会誌に量子コンピューティングの解説記事が掲載",
@@ -190,6 +208,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/lab-hp/ja/blog/2025/prl-editors-suggestion/";
+          
+        },
+      },{id: "post-トンネルダイオード発振器を用いた新しい極低温マイクロ波源を開発",
+        
+          title: "トンネルダイオード発振器を用いた新しい極低温マイクロ波源を開発",
+        
+        description: "トンネルダイオード発振器を用いた新しい極低温マイクロ波源を開発",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/lab-hp/ja/blog/2024/tdo-paper/";
           
         },
       },{id: "post-sanderの送別会",
