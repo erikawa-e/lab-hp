@@ -210,6 +210,17 @@ ninja.data = [{
             window.location.href = "/lab-hp/ja/blog/2025/prl-editors-suggestion/";
           
         },
+      },{id: "post-トンネルダイオード発振器を用いた新しい極低温マイクロ波源を開発",
+        
+          title: "トンネルダイオード発振器を用いた新しい極低温マイクロ波源を開発",
+        
+        description: "トンネルダイオード発振器を用いた新しい極低温マイクロ波源を開発",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/lab-hp/ja/blog/2024/tdo-paper/";
+          
+        },
       },{id: "post-sanderの送別会",
         
           title: "Sanderの送別会",

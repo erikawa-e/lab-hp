@@ -203,6 +203,17 @@ ninja.data = [{
             window.location.href = "/lab-hp/blog/2025/prl-editors-suggestion/";
           
         },
+      },{id: "post-new-cryogenic-microwave-source-developed-using-a-tunnel-diode-oscillator",
+        
+          title: "New cryogenic microwave source developed using a tunnel diode oscillator",
+        
+        description: "New cryogenic microwave source developed using a tunnel diode oscillator",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/lab-hp/blog/2024/tdo-paper/";
+          
+        },
       },{id: "post-sander-39-s-farewell-party",
         
           title: "Sander&#39;s Farewell party",
