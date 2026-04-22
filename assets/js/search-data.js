@@ -34,13 +34,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/lab-hp/publications/";
           },
-        },{id: "nav-presentations",
-          title: "presentations",
-          description: "Oral and poster presentations.",
-          section: "Navigation menu",
-          handler: () => {
-            window.location.href = "/lab-hp/presentations/";
-          },
         },{id: "nav-people",
           title: "people",
           description: "Members of the FEBQI research team",
@@ -137,17 +130,6 @@ ninja.data = [{
             window.location.href = "/lab-hp/blog/2026/birthdays/";
           
         },
-      },{id: "post-plasmon-paper-posted-on-arxiv",
-        
-          title: "Plasmon paper posted on arXiv",
-        
-        description: "Our plasmon paper is now on arXiv",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/lab-hp/blog/2026/plasmon-arxiv/";
-          
-        },
       },{id: "post-our-review-article-on-quantum-computing-published-in-a-french-alumni-magazine",
         
           title: "Our Review Article on Quantum Computing Published in a French Alumni Magazine",
@@ -201,17 +183,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/lab-hp/blog/2025/prl-editors-suggestion/";
-          
-        },
-      },{id: "post-new-cryogenic-microwave-source-developed-using-a-tunnel-diode-oscillator",
-        
-          title: "New cryogenic microwave source developed using a tunnel diode oscillator",
-        
-        description: "New cryogenic microwave source developed using a tunnel diode oscillator",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/lab-hp/blog/2024/tdo-paper/";
           
         },
       },{id: "post-sander-39-s-farewell-party",
