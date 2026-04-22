@@ -115,9 +115,9 @@ ninja.data = [{
             window.location.href = "/lab-hp/ja/blog/2026/2021-11-04-yappari-butsuri/";
           
         },
-      },{id: "post-嬉しいニュース",
+      },{id: "post-hochan-chungが学士論文優秀賞を受賞",
         
-          title: "嬉しいニュース",
+          title: "Hochan Chungが学士論文優秀賞を受賞",
         
         description: "Hochan Chungが学士論文優秀賞を受賞",
         section: "Posts",
@@ -148,9 +148,9 @@ ninja.data = [{
             window.location.href = "/lab-hp/ja/blog/2026/french-review-article/";
           
         },
-      },{id: "post-嬉しいニュース",
+      },{id: "post-ポスター賞受賞とprl論文がriken-research-newsに掲載",
         
-          title: "嬉しいニュース",
+          title: "ポスター賞受賞とPRL論文がRIKEN Research Newsに掲載",
         
         description: "ポスター賞受賞とPRL論文がRIKEN Research Newsに掲載",
         section: "Posts",

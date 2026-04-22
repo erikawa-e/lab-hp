@@ -108,9 +108,9 @@ ninja.data = [{
             window.location.href = "/lab-hp/blog/2026/2021-11-04-yappari-butsuri/";
           
         },
-      },{id: "post-great-news-to-share",
+      },{id: "post-hochan-chung-receives-best-bachelor-39-s-thesis-award",
         
-          title: "Great news to share",
+          title: "Hochan Chung receives Best Bachelor&#39;s Thesis Award",
         
         description: "Hochan Chung receives Best Bachelor&#39;s Thesis Award",
         section: "Posts",
@@ -141,9 +141,9 @@ ninja.data = [{
             window.location.href = "/lab-hp/blog/2026/french-review-article/";
           
         },
-      },{id: "post-great-news-to-share",
+      },{id: "post-poster-award-and-prl-paper-featured-in-riken-research-news",
         
-          title: "Great news to share",
+          title: "Poster award and PRL paper featured in RIKEN Research News",
         
         description: "Poster award and PRL paper featured in RIKEN Research News",
         section: "Posts",
