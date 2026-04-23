@@ -305,21 +305,6 @@ ninja.data = [{
           description: "量子ビット数の拡張に向けた極低温マイクロ波源の開発",
           section: "Projects",handler: () => {
               window.location.href = "/lab-hp/ja/projects/3-project/";
-            },},{id: "projects-projeto-4",
-          title: 'projeto 4',
-          description: "outro sem imagem",
-          section: "Projects",handler: () => {
-              window.location.href = "/lab-hp/ja/projects/4-project/";
-            },},{id: "projects-projeto-5",
-          title: 'projeto 5',
-          description: "um projeto com imagem de fundo",
-          section: "Projects",handler: () => {
-              window.location.href = "/lab-hp/ja/projects/5-project/";
-            },},{id: "projects-projeto-6",
-          title: 'projeto 6',
-          description: "um projeto sem imagem",
-          section: "Projects",handler: () => {
-              window.location.href = "/lab-hp/ja/projects/6-project/";
             },},{id: "projects-このウェブサイト",
           title: 'このウェブサイト',
           description: "JekyllとGitHub Pagesで構築、主にClaude Codeが作成",
