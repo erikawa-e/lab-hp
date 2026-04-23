@@ -83,18 +83,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/lab-hp/access/";
           },
-        },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/lab-hp/blog/2026/2021-11-04-yappari-butsuri/";
-          
-        },
-      },{id: "post-hochan-chung-receives-best-bachelor-39-s-thesis-award",
+        },{id: "post-hochan-chung-receives-best-bachelor-39-s-thesis-award",
         
           title: "Hochan Chung receives Best Bachelor&#39;s Thesis Award",
         
@@ -279,50 +268,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/lab-hp/blog/2022/cherry-blossoms-2022/";
-          
-        },
-      },{id: "post-a-new-article-got-published-on-nextrendasia",
-        
-          title: "A new article got published on nextrendasia!",
-        
-        description: "New outreach article published on nextrendasia",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/lab-hp/blog/2021/nextrendasia-article/";
-          
-        },
-      },{id: "post-やっぱり物理が好き",
-        
-          title: "やっぱり物理が好き",
-        
-        description: "第6回「やっぱり物理が好き！」で講演",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/lab-hp/blog/2021/yappari-butsuri/";
-          
-        },
-      },{id: "post-quantum-ict-forum-interview",
-        
-          title: "Quantum ICT Forum Interview",
-        
-        description: "Erika interviewed by Quantum ICT Forum",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/lab-hp/blog/2021/quantum-ict-interview/";
-          
-        },
-      },{id: "post-qfs2021",
-        
-          title: "QFS2021",
-        
-        description: "QFS2021 conference",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/lab-hp/blog/2021/qfs2021/";
           
         },
       },{id: "books-the-godfather",

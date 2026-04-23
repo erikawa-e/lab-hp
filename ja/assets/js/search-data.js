@@ -83,18 +83,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/lab-hp/ja/access/";
           },
-        },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/lab-hp/ja/blog/2026/2021-11-04-yappari-butsuri/";
-          
-        },
-      },{id: "post-hochan-chungが学士論文優秀賞を受賞",
+        },{id: "post-hochan-chungが学士論文優秀賞を受賞",
         
           title: "Hochan Chungが学士論文優秀賞を受賞",
         
@@ -279,50 +268,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/lab-hp/ja/blog/2022/cherry-blossoms-2022/";
-          
-        },
-      },{id: "post-nextrendasiaに記事が掲載",
-        
-          title: "nextrendasiaに記事が掲載！",
-        
-        description: "nextrendasiaに研究紹介記事が掲載",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/lab-hp/ja/blog/2021/nextrendasia-article/";
-          
-        },
-      },{id: "post-やっぱり物理が好き",
-        
-          title: "やっぱり物理が好き",
-        
-        description: "第6回「やっぱり物理が好き！」で講演",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/lab-hp/ja/blog/2021/yappari-butsuri/";
-          
-        },
-      },{id: "post-量子ictインタビュー",
-        
-          title: "量子ICTインタビュー",
-        
-        description: "量子ICTフォーラムのインタビュー",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/lab-hp/ja/blog/2021/quantum-ict-interview/";
-          
-        },
-      },{id: "post-qfs2021",
-        
-          title: "QFS2021",
-        
-        description: "QFS2021国際会議",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/lab-hp/ja/blog/2021/qfs2021/";
           
         },
       },{id: "books-the-godfather",
