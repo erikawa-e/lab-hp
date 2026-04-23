@@ -29,7 +29,7 @@ ninja.data = [{
           },
         },{id: "nav-発表論文",
           title: "発表論文",
-          description: "発表論文一覧（新しい順）。jekyll-scholarにより自動生成。",
+          description: "発表論文一覧（新しい順）。",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/lab-hp/ja/publications/";
