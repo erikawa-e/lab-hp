@@ -50,7 +50,7 @@ ninja.data = [{
           },
         },{id: "nav-プロジェクト",
           title: "プロジェクト",
-          description: "Uma crescente coleção de seus projetos interessantes.",
+          description: "研究プロジェクト・活動紹介",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/lab-hp/ja/projects/";
