@@ -243,6 +243,17 @@ ninja.data = [{
             window.location.href = "/lab-hp/ja/blog/2024/fcp-workshop-oist/";
           
         },
+      },{id: "post-チーム写真-2024年4月",
+        
+          title: "チーム写真、2024年4月",
+        
+        description: "FEBQIチーム写真、2024年4月",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/lab-hp/ja/blog/2024/team-photo/";
+          
+        },
       },{id: "post-rikenの桜が満開",
         
           title: "RIKENの桜が満開",

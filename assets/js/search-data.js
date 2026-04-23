@@ -236,6 +236,17 @@ ninja.data = [{
             window.location.href = "/lab-hp/blog/2024/fcp-workshop-oist/";
           
         },
+      },{id: "post-team-photo-april-2024",
+        
+          title: "Team photo, April 2024",
+        
+        description: "FEBQI team photo, April 2024",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/lab-hp/blog/2024/team-photo/";
+          
+        },
       },{id: "post-cherry-blossoms-burst-into-bloom-at-riken",
         
           title: "Cherry blossoms burst into bloom at RIKEN",
