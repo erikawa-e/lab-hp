@@ -69,13 +69,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/lab-hp/ja/cv/";
           },
-        },{id: "nav-教育",
-          title: "教育",
-          description: "Materiais de cursos que você ministrou. Substitua esse texto com sua descrição.",
-          section: "Navigation menu",
-          handler: () => {
-            window.location.href = "/lab-hp/ja/teaching/";
-          },
         },{id: "nav-アウトリーチ",
           title: "アウトリーチ",
           description: "解説記事・一般向け講演など",
