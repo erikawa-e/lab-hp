@@ -76,7 +76,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/lab-hp/access/";
           },
-        },{id: "post-hochan-chung-receives-best-bachelor-39-s-thesis-award",
+        },{id: "post-welcome-back-xianjing",
+        
+          title: "Welcome back, Xianjing!",
+        
+        description: "Xianjing Zhou is visiting for one week",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/lab-hp/blog/2026/xianjing-visit/";
+          
+        },
+      },{id: "post-hochan-chung-receives-best-bachelor-39-s-thesis-award",
         
           title: "Hochan Chung receives Best Bachelor&#39;s Thesis Award",
         

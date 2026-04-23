@@ -76,7 +76,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/lab-hp/ja/access/";
           },
-        },{id: "post-hochan-chungが学士論文優秀賞を受賞",
+        },{id: "post-xianjingおかえり",
+        
+          title: "Xianjingおかえり！",
+        
+        description: "Xianjing Zhou が1週間滞在します",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/lab-hp/ja/blog/2026/xianjing-visit/";
+          
+        },
+      },{id: "post-hochan-chungが学士論文優秀賞を受賞",
         
           title: "Hochan Chungが学士論文優秀賞を受賞",
         
