@@ -330,16 +330,7 @@ ninja.data = [{
           description: "",
           section: "",handler: () => {
               window.location.href = "/lab-hp/ja/books/en-us/the_godfather/";
-            },},{id: "news-トンネルダイオード発振器を用いた極低温マイクロ波源を開発-商用源より優れた振幅安定性を実現しました",
-          title: 'トンネルダイオード発振器を用いた極低温マイクロ波源を開発。商用源より優れた振幅安定性を実現しました。',
-          description: "",
-          section: "News",},{id: "news-ポスドク-インターン-3ヶ月以上-を募集中です-erika-kawakami-riken-jpまでご連絡ください",
-          title: 'ポスドク・インターン（3ヶ月以上） を募集中です。erika.kawakami@riken.jpまでご連絡ください。',
-          description: "",
-          section: "News",},{id: "news-プラズモン論文がarxivに公開されました-液体ヘリウム表面上の浮揚電子の集団励起-プラズモンモード-に関する新しい研究成果です",
-          title: 'プラズモン論文がarXivに公開されました！液体ヘリウム表面上の浮揚電子の集団励起（プラズモンモード）に関する新しい研究成果です。',
-          description: "",
-          section: "News",},{id: "projects-液体ヘリウム上の電子",
+            },},{id: "projects-液体ヘリウム上の電子",
           title: '液体ヘリウム上の電子',
           description: "清浄な環境でのスケーラブルな電子スピン量子ビット",
           section: "Projects",handler: () => {

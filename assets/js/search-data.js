@@ -330,16 +330,7 @@ ninja.data = [{
           description: "",
           section: "",handler: () => {
               window.location.href = "/lab-hp/books/en-us/the_godfather/";
-            },},{id: "news-new-cryogenic-microwave-source-developed-using-a-tunnel-diode-oscillator-achieving-superior-amplitude-stability-compared-to-commercial-sources",
-          title: 'New cryogenic microwave source developed using a tunnel diode oscillator — achieving superior...',
-          description: "",
-          section: "News",},{id: "news-we-are-recruiting-postdocs-and-interns-3-months-contact-erika-kawakami-riken-jp-for-details",
-          title: 'We are recruiting postdocs and interns (3+ months). Contact erika.kawakami@riken.jp for details.',
-          description: "",
-          section: "News",},{id: "news-our-plasmon-paper-is-now-on-arxiv-new-results-on-collective-excitations-plasmon-modes-of-electrons-floating-on-liquid-helium",
-          title: 'Our plasmon paper is now on arXiv! New results on collective excitations (plasmon...',
-          description: "",
-          section: "News",},{id: "projects-electrons-on-liquid-helium",
+            },},{id: "projects-electrons-on-liquid-helium",
           title: 'Electrons on Liquid Helium',
           description: "Scalable electron spin qubits in a pristine environment",
           section: "Projects",handler: () => {
