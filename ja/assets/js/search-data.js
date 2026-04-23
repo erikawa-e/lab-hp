@@ -27,9 +27,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/lab-hp/ja/blog/";
           },
-        },{id: "nav-発表論文",
-          title: "発表論文",
-          description: "発表論文一覧（新しい順）。",
+        },{id: "nav-論文",
+          title: "論文",
+          description: "論文一覧（新しい順）。",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/lab-hp/ja/publications/";
