@@ -83,21 +83,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/lab-hp/outreach/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/lab-hp/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/lab-hp/blog/";
-              },
-            },{id: "nav-access",
+        },{id: "nav-access",
           title: "access",
           description: "How to find us",
           section: "Navigation menu",

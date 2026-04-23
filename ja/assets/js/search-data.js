@@ -83,28 +83,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/lab-hp/ja/outreach/";
           },
-        },{id: "dropdown-publicações",
-              title: "publicações",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/lab-hp/ja/publications/";
-              },
-            },{id: "dropdown-projetos",
-              title: "projetos",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/lab-hp/ja/projects/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/lab-hp/ja/blog/";
-              },
-            },{id: "nav-アクセス",
+        },{id: "nav-アクセス",
           title: "アクセス",
           description: "研究室へのアクセス",
           section: "Navigation menu",
