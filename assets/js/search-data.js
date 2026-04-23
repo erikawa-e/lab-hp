@@ -241,6 +241,17 @@ ninja.data = [{
             window.location.href = "/lab-hp/blog/2023/xianjing-farewell/";
           
         },
+      },{id: "post-entretien-avec-le-dr-erika-kawakami-chercheuse-en-informatique-quantique",
+        
+          title: "Entretien avec le Dr. Erika Kawakami, chercheuse en informatique quantique",
+        
+        description: "Interview published by the French Embassy in Japan (Portraits de femmes en sciences)",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/lab-hp/blog/2023/interview-fr/";
+          
+        },
       },{id: "post-ivan-39-s-poster-received-the-best-poster-award-at-ult2022",
         
           title: "Ivan&#39;s poster received the best poster award at ULT2022!",
