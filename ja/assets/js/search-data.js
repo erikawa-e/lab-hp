@@ -105,11 +105,11 @@ ninja.data = [{
             window.location.href = "/lab-hp/ja/blog/2026/hochan-award/";
           
         },
-      },{id: "post-お誕生日おめでとう",
+      },{id: "post-oleksiy-傘寿おめでとう",
         
-          title: "お誕生日おめでとう",
+          title: "Oleksiy 傘寿おめでとう",
         
-        description: "研究室のお誕生日のお祝い",
+        description: "Oleksiy 傘寿（80歳）のお祝い",
         section: "Posts",
         handler: () => {
           

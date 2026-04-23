@@ -105,9 +105,9 @@ ninja.data = [{
             window.location.href = "/lab-hp/blog/2026/hochan-award/";
           
         },
-      },{id: "post-birthdays",
+      },{id: "post-happy-80th-birthday-oleksiy",
         
-          title: "Birthdays",
+          title: "Happy 80th birthday, Oleksiy!",
         
         description: "Celebrating birthdays in the lab",
         section: "Posts",
