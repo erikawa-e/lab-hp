@@ -62,13 +62,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/lab-hp/repositories/";
           },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "Curriculum Vitae — Erika Kawakami",
-          section: "Navigation menu",
-          handler: () => {
-            window.location.href = "/lab-hp/cv/";
-          },
         },{id: "nav-outreach",
           title: "outreach",
           description: "Review &amp; tutorial articles, public lectures, and more",

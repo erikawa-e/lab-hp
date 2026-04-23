@@ -62,13 +62,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/lab-hp/ja/repositories/";
           },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "川上恵里加 — 業績一覧",
-          section: "Navigation menu",
-          handler: () => {
-            window.location.href = "/lab-hp/ja/cv/";
-          },
         },{id: "nav-アウトリーチ",
           title: "アウトリーチ",
           description: "解説記事・一般向け講演など",
