@@ -171,9 +171,9 @@ ninja.data = [{
             window.location.href = "/lab-hp/ja/blog/2025/tetsu-farewell/";
           
         },
-      },{id: "post-嬉しいニュース",
+      },{id: "post-ash-ポスター賞受賞",
         
-          title: "嬉しいニュース",
+          title: "Ash ポスター賞受賞",
         
         description: "PRL論文がEditors&#39; Suggestionに選出、LT30でポスター賞受賞",
         section: "Posts",
