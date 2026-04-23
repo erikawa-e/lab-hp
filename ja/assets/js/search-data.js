@@ -360,6 +360,11 @@ ninja.data = [{
           description: "um projeto sem imagem",
           section: "Projects",handler: () => {
               window.location.href = "/lab-hp/ja/projects/6-project/";
+            },},{id: "projects-このウェブサイト",
+          title: 'このウェブサイト',
+          description: "JekyllとGitHub Pagesで構築、主にClaude Codeが作成",
+          section: "Projects",handler: () => {
+              window.location.href = "/lab-hp/ja/projects/7-project/";
             },},{
         id: 'social-email',
         title: 'Send an email',

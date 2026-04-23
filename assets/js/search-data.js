@@ -360,6 +360,11 @@ ninja.data = [{
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/lab-hp/projects/6-project/";
+            },},{id: "projects-this-website",
+          title: 'This Website',
+          description: "Built with Jekyll and GitHub Pages, primarily by Claude Code",
+          section: "Projects",handler: () => {
+              window.location.href = "/lab-hp/projects/7-project/";
             },},{
         id: 'social-email',
         title: 'Send an email',
