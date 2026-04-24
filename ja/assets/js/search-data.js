@@ -57,7 +57,7 @@ ninja.data = [{
           },
         },{id: "nav-リポジトリ",
           title: "リポジトリ",
-          description: "Edite o `_data/repositories.yml` e mude as listas `github_users` e `github_repos` para incluir seu próprio perfil do GitHub e repositórios.",
+          description: "",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/lab-hp/ja/repositories/";
