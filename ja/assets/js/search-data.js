@@ -310,6 +310,11 @@ ninja.data = [{
           description: "JekyllとGitHub Pagesで構築、主にClaude Codeが作成",
           section: "Projects",handler: () => {
               window.location.href = "/lab-hp/ja/projects/7-project/";
+            },},{id: "projects-量子ドット",
+          title: '量子ドット',
+          description: "電子を狭い空間に閉じ込めた人工の原子",
+          section: "Projects",handler: () => {
+              window.location.href = "/lab-hp/ja/projects/4-project/";
             },},{
         id: 'social-email',
         title: 'Send an email',
