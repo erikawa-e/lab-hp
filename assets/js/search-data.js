@@ -131,28 +131,6 @@ ninja.data = [{
             window.location.href = "/lab-hp/blog/2026/french-review-article/";
           
         },
-      },{id: "post-poster-award-and-prl-paper-featured-in-riken-research-news",
-        
-          title: "Poster award and PRL paper featured in RIKEN Research News",
-        
-        description: "Poster award and PRL paper featured in RIKEN Research News",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/lab-hp/blog/2026/poster-award-prl-news/";
-          
-        },
-      },{id: "post-international-collaborative-project",
-        
-          title: "International collaborative project",
-        
-        description: "JST ASPIRE project selected for international collaboration",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/lab-hp/blog/2025/jst-aspire/";
-          
-        },
       },{id: "post-tetsu-39-s-farewell-party",
         
           title: "Tetsu&#39;s farewell party",
@@ -217,28 +195,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/lab-hp/blog/2024/team-photo/";
-          
-        },
-      },{id: "post-cherry-blossoms-burst-into-bloom-at-riken",
-        
-          title: "Cherry blossoms burst into bloom at RIKEN",
-        
-        description: "Spring cherry blossoms at RIKEN Wako campus",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/lab-hp/blog/2024/cherry-blossoms-2024/";
-          
-        },
-      },{id: "post-our-article-was-featured-in-research-news",
-        
-          title: "Our article was featured in Research News!",
-        
-        description: "Research paper featured in RIKEN Research News",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/lab-hp/blog/2024/research-news/";
           
         },
       },{id: "post-xianjing-39-s-farewell-party",
@@ -315,6 +271,11 @@ ninja.data = [{
           description: "電子を狭い空間に閉じ込めた人工の原子",
           section: "Projects",handler: () => {
               window.location.href = "/lab-hp/projects/4-project/";
+            },},{id: "projects-量子コンピュータ",
+          title: '量子コンピュータ',
+          description: "量子の重ね合わせともつれを使う新しいコンピュータ",
+          section: "Projects",handler: () => {
+              window.location.href = "/lab-hp/projects/5-project/";
             },},{
         id: 'social-email',
         title: 'Send an email',

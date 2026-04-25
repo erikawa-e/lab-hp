@@ -1,0 +1,38 @@
+backend:
+  name: github
+  repo: erikawa-e/lab-hp
+  branch: main
+  auth_type: pkce
+  app_id: REPLACE_WITH_CLIENT_ID
+
+media_folder: "assets/img"
+public_folder: "/assets/img"
+
+collections:
+  - name: "posts_ja"
+    label: "ブログ投稿（日本語）"
+    folder: "_posts/ja"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { label: "レイアウト", name: "layout", widget: "hidden", default: "post" }
+      - { label: "タイトル", name: "title", widget: "string" }
+      - { label: "日付", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:mm:ss" }
+      - { label: "説明", name: "description", widget: "string", required: false }
+      - { label: "タグ", name: "tags", widget: "list", required: false }
+      - { label: "サムネイル", name: "thumbnail", widget: "image", required: false }
+      - { label: "本文", name: "body", widget: "markdown" }
+
+  - name: "posts_en"
+    label: "Blog Posts (English)"
+    folder: "_posts/en-us"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:mm:ss" }
+      - { label: "Description", name: "description", widget: "string", required: false }
+      - { label: "Tags", name: "tags", widget: "list", required: false }
+      - { label: "Thumbnail", name: "thumbnail", widget: "image", required: false }
+      - { label: "Body", name: "body", widget: "markdown" }
