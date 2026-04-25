@@ -20,7 +20,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/lab-hp/";
     },
-  },{id: "nav-blog",
+  },{id: "nav-people",
+          title: "people",
+          description: "Members of the FEBQI research team",
+          section: "Navigation menu",
+          handler: () => {
+            window.location.href = "/lab-hp/people/";
+          },
+        },{id: "nav-blog",
           title: "blog",
           description: "Lab news and updates",
           section: "Navigation menu",
@@ -41,12 +48,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/lab-hp/presentations/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "Members of the FEBQI research team",
+        },{id: "nav-outreach",
+          title: "outreach",
+          description: "Review &amp; tutorial articles, public lectures, and more",
           section: "Navigation menu",
           handler: () => {
-            window.location.href = "/lab-hp/people/";
+            window.location.href = "/lab-hp/outreach/";
           },
         },{id: "nav-projects",
           title: "projects",
@@ -61,13 +68,6 @@ ninja.data = [{
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/lab-hp/repositories/";
-          },
-        },{id: "nav-outreach",
-          title: "outreach",
-          description: "Review &amp; tutorial articles, public lectures, and more",
-          section: "Navigation menu",
-          handler: () => {
-            window.location.href = "/lab-hp/outreach/";
           },
         },{id: "nav-access",
           title: "access",

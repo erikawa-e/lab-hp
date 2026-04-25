@@ -20,7 +20,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/lab-hp/ja/";
     },
-  },{id: "nav-ブログ",
+  },{id: "nav-メンバー",
+          title: "メンバー",
+          description: "FEBQIチームのメンバー",
+          section: "Navigation menu",
+          handler: () => {
+            window.location.href = "/lab-hp/ja/people/";
+          },
+        },{id: "nav-ブログ",
           title: "ブログ",
           description: "研究室のニュースとアップデート",
           section: "Navigation menu",
@@ -41,12 +48,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/lab-hp/ja/presentations/";
           },
-        },{id: "nav-メンバー",
-          title: "メンバー",
-          description: "FEBQIチームのメンバー",
+        },{id: "nav-アウトリーチ",
+          title: "アウトリーチ",
+          description: "解説記事・一般向け講演など",
           section: "Navigation menu",
           handler: () => {
-            window.location.href = "/lab-hp/ja/people/";
+            window.location.href = "/lab-hp/ja/outreach/";
           },
         },{id: "nav-プロジェクト",
           title: "プロジェクト",
@@ -61,13 +68,6 @@ ninja.data = [{
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/lab-hp/ja/repositories/";
-          },
-        },{id: "nav-アウトリーチ",
-          title: "アウトリーチ",
-          description: "解説記事・一般向け講演など",
-          section: "Navigation menu",
-          handler: () => {
-            window.location.href = "/lab-hp/ja/outreach/";
           },
         },{id: "nav-アクセス",
           title: "アクセス",
