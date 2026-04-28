@@ -1,5 +1,5 @@
 [build]
-  command = "bundle exec jekyll build && mkdir -p _site/admin && cp admin/index.html admin/config.yml _site/admin/"
+  command = "bundle exec jekyll build --baseurl '' && mkdir -p _site/admin && cp admin/index.html admin/config.yml _site/admin/"
   publish = "_site"
 
 [build.environment]
