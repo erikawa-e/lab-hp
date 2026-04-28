@@ -20,6 +20,20 @@ collections:
       - { label: "サムネイル", name: "thumbnail", widget: "image", required: false }
       - { label: "本文", name: "body", widget: "markdown" }
 
+  - name: "pages"
+    label: "ページ"
+    files:
+      - name: "about_ja"
+        label: "About（日本語）"
+        file: "_pages/ja/about.md"
+        fields:
+          - { label: "本文", name: "body", widget: "markdown" }
+      - name: "about_en"
+        label: "About (English)"
+        file: "_pages/en-us/about.md"
+        fields:
+          - { label: "Body", name: "body", widget: "markdown" }
+
   - name: "posts_en"
     label: "Blog Posts (English)"
     folder: "_posts/en-us"
