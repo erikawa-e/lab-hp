@@ -14,6 +14,7 @@ collections:
     fields:
       - { label: "レイアウト", name: "layout", widget: "hidden", default: "post" }
       - { label: "タイトル", name: "title", widget: "string" }
+      - { label: "スラッグ（英数字・ハイフンのみ）", name: "slug", widget: "string" }
       - { label: "日付", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:mm:ss" }
       - { label: "説明", name: "description", widget: "string", required: false }
       - { label: "タグ", name: "tags", widget: "list", required: false }
@@ -42,6 +43,7 @@ collections:
     fields:
       - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "Slug (letters, numbers, hyphens only)", name: "slug", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:mm:ss" }
       - { label: "Description", name: "description", widget: "string", required: false }
       - { label: "Tags", name: "tags", widget: "list", required: false }
