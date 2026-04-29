@@ -76,7 +76,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/lab-hp/access/";
           },
-        },{id: "post-welcome-back-xianjing",
+        },{id: "post-テスト",
+        
+          title: "テスト",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/lab-hp/blog/2026/test/";
+          
+        },
+      },{id: "post-welcome-back-xianjing",
         
           title: "Welcome back, Xianjing!",
         
@@ -276,6 +287,11 @@ ninja.data = [{
           description: "量子の重ね合わせともつれを使う新しいコンピュータ",
           section: "Projects",handler: () => {
               window.location.href = "/lab-hp/projects/5-project/";
+            },},{id: "projects-液体ヘリウム上の浮揚電子",
+          title: '液体ヘリウム上の浮揚電子',
+          description: "液体ヘリウム表面の真空中に浮かぶ電子と量子コンピュータ",
+          section: "Projects",handler: () => {
+              window.location.href = "/lab-hp/projects/6-project/";
             },},{
         id: 'social-email',
         title: 'Send an email',
