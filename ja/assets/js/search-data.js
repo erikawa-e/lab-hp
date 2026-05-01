@@ -69,6 +69,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/lab-hp/ja/repositories/";
           },
+        },{id: "nav-グラント",
+          title: "グラント",
+          description: "外部資金",
+          section: "Navigation menu",
+          handler: () => {
+            window.location.href = "/lab-hp/ja/grants/";
+          },
         },{id: "nav-アクセス",
           title: "アクセス",
           description: "研究室へのアクセス",

@@ -69,6 +69,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/lab-hp/repositories/";
           },
+        },{id: "nav-grants",
+          title: "grants",
+          description: "External funding",
+          section: "Navigation menu",
+          handler: () => {
+            window.location.href = "/lab-hp/grants/";
+          },
         },{id: "nav-access",
           title: "access",
           description: "How to find us",
