@@ -71,7 +71,7 @@ ninja.data = [{
           },
         },{id: "nav-grants",
           title: "grants",
-          description: "External funding",
+          description: "We gratefully acknowledge financial support from the following sources.",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/lab-hp/grants/";

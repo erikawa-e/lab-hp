@@ -71,7 +71,7 @@ ninja.data = [{
           },
         },{id: "nav-グラント",
           title: "グラント",
-          description: "外部資金",
+          description: "本研究は以下の機関からのご支援を受けています。深く感謝申し上げます。",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/lab-hp/ja/grants/";
