@@ -264,9 +264,9 @@ ninja.data = [{
           description: "",
           section: "",handler: () => {
               window.location.href = "/lab-hp/ja/books/en-us/the_godfather/";
-            },},{id: "projects-液体ヘリウム上の電子",
-          title: '液体ヘリウム上の電子',
-          description: "清浄な環境でのスケーラブルな電子スピン量子ビット",
+            },},{id: "projects-リュードベリ遷移",
+          title: 'リュードベリ遷移',
+          description: "リュードベリ遷移による量子キャパシタンス",
           section: "Projects",handler: () => {
               window.location.href = "/lab-hp/ja/projects/1-project/";
             },},{id: "projects-固体ネオン上の電子",

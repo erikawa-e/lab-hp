@@ -264,9 +264,9 @@ ninja.data = [{
           description: "",
           section: "",handler: () => {
               window.location.href = "/lab-hp/books/en-us/the_godfather/";
-            },},{id: "projects-electrons-on-liquid-helium",
-          title: 'Electrons on Liquid Helium',
-          description: "Scalable electron spin qubits in a pristine environment",
+            },},{id: "projects-rydberg-transitions",
+          title: 'Rydberg Transitions',
+          description: "Quantum capacitance via Rydberg transitions",
           section: "Projects",handler: () => {
               window.location.href = "/lab-hp/projects/1-project/";
             },},{id: "projects-electrons-on-solid-neon",
