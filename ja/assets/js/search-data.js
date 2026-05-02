@@ -276,7 +276,7 @@ ninja.data = [{
               window.location.href = "/lab-hp/ja/projects/2-project/";
             },},{id: "projects-極低温エレクトロニクス",
           title: '極低温エレクトロニクス',
-          description: "量子ビット数の拡張に向けた極低温マイクロ波源の開発",
+          description: "大規模量子コンピューターの実現に向けた極低温マイクロ波発振器の開発",
           section: "Projects",handler: () => {
               window.location.href = "/lab-hp/ja/projects/3-project/";
             },},{id: "projects-このウェブサイト",

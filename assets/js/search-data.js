@@ -276,7 +276,7 @@ ninja.data = [{
               window.location.href = "/lab-hp/projects/2-project/";
             },},{id: "projects-cryogenic-electronics",
           title: 'Cryogenic Electronics',
-          description: "Cryogenic microwave sources for scalable quantum computation",
+          description: "Development of cryogenic microwave sources for scalable quantum computing",
           section: "Projects",handler: () => {
               window.location.href = "/lab-hp/projects/3-project/";
             },},{id: "projects-this-website",
