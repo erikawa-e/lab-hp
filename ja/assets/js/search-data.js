@@ -34,40 +34,40 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/lab-hp/ja/blog/";
           },
-        },{id: "nav-論文",
-          title: "論文",
-          description: "論文一覧（新しい順）。",
-          section: "Navigation menu",
-          handler: () => {
-            window.location.href = "/lab-hp/ja/publications/";
-          },
-        },{id: "nav-発表",
-          title: "発表",
-          description: "口頭・ポスター発表一覧。",
-          section: "Navigation menu",
-          handler: () => {
-            window.location.href = "/lab-hp/ja/presentations/";
-          },
-        },{id: "nav-アウトリーチ",
-          title: "アウトリーチ",
-          description: "解説記事・一般向け講演など",
-          section: "Navigation menu",
-          handler: () => {
-            window.location.href = "/lab-hp/ja/outreach/";
-          },
-        },{id: "nav-プロジェクト",
+        },{id: "dropdown-論文",
+              title: "論文",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/lab-hp/ja/publications/";
+              },
+            },{id: "dropdown-発表",
+              title: "発表",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/lab-hp/ja/presentations/";
+              },
+            },{id: "dropdown-アウトリーチ",
+              title: "アウトリーチ",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/lab-hp/ja/outreach/";
+              },
+            },{id: "dropdown-受賞",
+              title: "受賞",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/lab-hp/ja/awards/";
+              },
+            },{id: "nav-プロジェクト",
           title: "プロジェクト",
           description: "研究プロジェクト・活動紹介",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/lab-hp/ja/projects/";
-          },
-        },{id: "nav-リポジトリ",
-          title: "リポジトリ",
-          description: "",
-          section: "Navigation menu",
-          handler: () => {
-            window.location.href = "/lab-hp/ja/repositories/";
           },
         },{id: "nav-グラント",
           title: "グラント",

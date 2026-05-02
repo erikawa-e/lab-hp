@@ -34,40 +34,40 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/lab-hp/blog/";
           },
-        },{id: "nav-publications",
-          title: "publications",
-          description: "publications by categories in reversed chronological order.",
-          section: "Navigation menu",
-          handler: () => {
-            window.location.href = "/lab-hp/publications/";
-          },
-        },{id: "nav-presentations",
-          title: "presentations",
-          description: "Oral and poster presentations.",
-          section: "Navigation menu",
-          handler: () => {
-            window.location.href = "/lab-hp/presentations/";
-          },
-        },{id: "nav-outreach",
-          title: "outreach",
-          description: "Review &amp; tutorial articles, public lectures, and more",
-          section: "Navigation menu",
-          handler: () => {
-            window.location.href = "/lab-hp/outreach/";
-          },
-        },{id: "nav-projects",
+        },{id: "dropdown-publications",
+              title: "publications",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/lab-hp/publications/";
+              },
+            },{id: "dropdown-presentations",
+              title: "presentations",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/lab-hp/presentations/";
+              },
+            },{id: "dropdown-outreach",
+              title: "outreach",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/lab-hp/outreach/";
+              },
+            },{id: "dropdown-awards",
+              title: "awards",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/lab-hp/awards/";
+              },
+            },{id: "nav-projects",
           title: "projects",
           description: "Selected research projects and activities.",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/lab-hp/projects/";
-          },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "",
-          section: "Navigation menu",
-          handler: () => {
-            window.location.href = "/lab-hp/repositories/";
           },
         },{id: "nav-grants",
           title: "grants",
