@@ -197,7 +197,7 @@ ninja.data = [{
         
           title: "OISTでFCPワークショップ",
         
-        description: "OISTでの量子技術ワークショップに参加",
+        description: "OIST Workshop &quot;Quantum Technologies with Floating Charged Particles&quot;",
         section: "Posts",
         handler: () => {
           
