@@ -193,9 +193,9 @@ ninja.data = [{
             window.location.href = "/lab-hp/ja/blog/2024/sander-farewell/";
           
         },
-      },{id: "post-oistワークショップ-浮揚荷電粒子を用いた量子技術",
+      },{id: "post-oistでfcpワークショップ",
         
-          title: "OISTワークショップ「浮揚荷電粒子を用いた量子技術」",
+          title: "OISTでFCPワークショップ",
         
         description: "浮揚荷電粒子を用いた量子技術に関するOISTワークショップ",
         section: "Posts",
