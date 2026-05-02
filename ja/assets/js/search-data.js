@@ -193,11 +193,11 @@ ninja.data = [{
             window.location.href = "/lab-hp/ja/blog/2024/sander-farewell/";
           
         },
-      },{id: "post-oistでfcpワークショップ",
+      },{id: "post-oistワークショップ-浮揚荷電粒子を用いた量子技術",
         
-          title: "OISTでFCPワークショップ",
+          title: "OISTワークショップ「浮揚荷電粒子を用いた量子技術」",
         
-        description: "OIST Workshop &quot;Quantum Technologies with Floating Charged Particles&quot;",
+        description: "浮揚荷電粒子を用いた量子技術に関するOISTワークショップ",
         section: "Posts",
         handler: () => {
           
