@@ -264,8 +264,8 @@ ninja.data = [{
           description: "",
           section: "",handler: () => {
               window.location.href = "/lab-hp/books/en-us/the_godfather/";
-            },},{id: "projects-rydberg-transitions",
-          title: 'Rydberg Transitions',
+            },},{id: "projects-electrons-on-liquid-helium",
+          title: 'Electrons on Liquid Helium',
           description: "Quantum capacitance via Rydberg transitions",
           section: "Projects",handler: () => {
               window.location.href = "/lab-hp/projects/1-project/";
