@@ -83,18 +83,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/lab-hp/ja/access/";
           },
-        },{id: "post-テスト",
-        
-          title: "テスト",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/lab-hp/ja/blog/2026/test/";
-          
-        },
-      },{id: "post-xianjingおかえり",
+        },{id: "post-xianjingおかえり",
         
           title: "Xianjingおかえり！",
         
