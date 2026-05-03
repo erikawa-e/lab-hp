@@ -226,9 +226,9 @@ ninja.data = [{
             window.location.href = "/lab-hp/ja/blog/2023/xianjing-farewell/";
           
         },
-      },{id: "post-量子情報科学の研究を行う川上恵里加へのインタビュー",
+      },{id: "post-量子情報科学の研究を行う川上恵里加博士へのインタビュー",
         
-          title: "量子情報科学の研究を行う川上恵里加へのインタビュー",
+          title: "量子情報科学の研究を行う川上恵里加博士へのインタビュー",
         
         description: "在日フランス大使館「Portraits de femmes en sciences」掲載インタビュー（2023年2月）",
         section: "Posts",
