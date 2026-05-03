@@ -269,8 +269,8 @@ ninja.data = [{
           description: "Quantum capacitance induced by Rydberg transitions",
           section: "Projects",handler: () => {
               window.location.href = "/lab-hp/projects/1-project/";
-            },},{id: "projects-research-introduction-for-general-audience",
-          title: 'Research Introduction for General Audience',
+            },},{id: "projects-overview",
+          title: 'Overview',
           description: "Physics and quantum applications of electrons floating on liquid helium and solid neon",
           section: "Projects",handler: () => {
               window.location.href = "/lab-hp/projects/2-project/";
