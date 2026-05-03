@@ -269,9 +269,9 @@ ninja.data = [{
           description: "Quantum capacitance induced by Rydberg transitions",
           section: "Projects",handler: () => {
               window.location.href = "/lab-hp/projects/1-project/";
-            },},{id: "projects-electrons-on-solid-neon",
-          title: 'Electrons on Solid Neon',
-          description: "Long coherence quantum memory using charge and spin states",
+            },},{id: "projects-research-overview",
+          title: 'Research Overview',
+          description: "Physics and quantum applications of electrons floating on liquid helium and solid neon",
           section: "Projects",handler: () => {
               window.location.href = "/lab-hp/projects/2-project/";
             },},{id: "projects-cryogenic-electronics",

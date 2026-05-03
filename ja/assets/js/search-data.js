@@ -269,9 +269,9 @@ ninja.data = [{
           description: "リュードベリ遷移による量子キャパシタンス",
           section: "Projects",handler: () => {
               window.location.href = "/lab-hp/ja/projects/1-project/";
-            },},{id: "projects-固体ネオン上の電子",
-          title: '固体ネオン上の電子',
-          description: "単一電子の電荷・スピン量子ビットの実現",
+            },},{id: "projects-研究者向け研究紹介",
+          title: '研究者向け研究紹介',
+          description: "液体ヘリウムや固体ネオン表面に浮かぶ電子の物理と量子応用",
           section: "Projects",handler: () => {
               window.location.href = "/lab-hp/ja/projects/2-project/";
             },},{id: "projects-極低温エレクトロニクス",
