@@ -15,69 +15,69 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation menu",
     handler: () => {
       window.location.href = "/lab-hp/";
     },
   },{id: "nav-people",
-          title: "people",
+          title: "People",
           description: "Members of the FEBQI research team",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/lab-hp/people/";
           },
         },{id: "nav-blog",
-          title: "blog",
+          title: "Blog",
           description: "Lab news and updates",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/lab-hp/blog/";
           },
         },{id: "dropdown-publications",
-              title: "publications",
+              title: "Publications",
               description: "",
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/lab-hp/publications/";
               },
             },{id: "dropdown-presentations",
-              title: "presentations",
+              title: "Presentations",
               description: "",
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/lab-hp/presentations/";
               },
             },{id: "dropdown-outreach",
-              title: "outreach",
+              title: "Outreach",
               description: "",
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/lab-hp/outreach/";
               },
             },{id: "dropdown-awards",
-              title: "awards",
+              title: "Awards",
               description: "",
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/lab-hp/awards/";
               },
             },{id: "nav-projects",
-          title: "projects",
+          title: "Projects",
           description: "Selected research projects and activities.",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/lab-hp/projects/";
           },
         },{id: "nav-grants",
-          title: "grants",
+          title: "Grants",
           description: "We gratefully acknowledge financial support from the following sources.",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/lab-hp/grants/";
           },
         },{id: "nav-access",
-          title: "access",
+          title: "Access",
           description: "How to find us",
           section: "Navigation menu",
           handler: () => {
