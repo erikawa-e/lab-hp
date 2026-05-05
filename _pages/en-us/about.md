@@ -28,6 +28,8 @@ Our research focuses on electrons floating above liquid helium and solid neon as
 * **Electrons on solid neon** — Long coherence times for both charge and spin states, targeting quantum memory
 * **Cryogenic electronics** — Development of cryogenic microwave sources for scalable quantum computation
 
+<p style="font-size:0.9em;"><a href="/en-us/projects/">→ See projects for details</a></p>
+
 ## Upcoming
 
 * **May 18, 2026** — [Workshop: Towards Spin Qubits of Electrons on Solid Neon](https://sites.google.com/view/febqi/workshop), RIKEN Wako Campus (hybrid). Free registration!
