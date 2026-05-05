@@ -2,7 +2,7 @@
 page_id: access
 layout: page
 permalink: /access/
-title: access
+title: Access
 description: How to find us
 nav: true
 nav_order: 10

@@ -2,7 +2,7 @@
 page_id: cv
 layout: cv
 permalink: /cv/
-title: cv
+title: CV
 nav: false
 description: Curriculum Vitae — Erika Kawakami
 toc:

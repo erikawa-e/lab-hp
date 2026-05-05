@@ -2,7 +2,7 @@
 page_id: presentations
 layout: page
 permalink: /presentations/
-title: presentations
+title: Presentations
 description: Oral and poster presentations.
 nav: false
 nav_order: 5

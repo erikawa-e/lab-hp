@@ -2,7 +2,7 @@
 page_id: outreach
 layout: page
 permalink: /outreach/
-title: outreach
+title: Outreach
 description: Review & tutorial articles, public lectures, and more
 nav: false
 nav_order: 6

@@ -1,20 +1,20 @@
 ---
 page_id: dropdown_research
 layout: page
-title: publications & more
+title: Publications & More
 nav: true
 nav_order: 4
 dropdown: true
 children:
-  - title: publications
+  - title: Publications
     permalink: /publications/
   - title: divider
-  - title: presentations
+  - title: Presentations
     permalink: /presentations/
   - title: divider
-  - title: outreach
+  - title: Outreach
     permalink: /outreach/
   - title: divider
-  - title: awards
+  - title: Awards
     permalink: /awards/
 ---

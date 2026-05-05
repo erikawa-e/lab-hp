@@ -1,7 +1,7 @@
 ---
 page_id: projects
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
 description: Selected research projects and activities.
 nav: true

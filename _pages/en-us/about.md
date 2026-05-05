@@ -12,7 +12,7 @@ announcements:
 social: false
 subtitle: <a href="https://sites.google.com/view/febqi/" target="_blank"
   style="font-size:0.85em; color:#888;">Previous website</a>
-title: about
+title: About
 latest_posts:
   enabled: true
   scrollable: true

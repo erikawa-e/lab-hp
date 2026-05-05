@@ -2,7 +2,7 @@
 page_id: awards
 layout: page
 permalink: /awards/
-title: awards
+title: Awards
 description: Awards received by FEBQI lab members
 nav: false
 nav_order: 5

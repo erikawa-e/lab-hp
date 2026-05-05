@@ -2,7 +2,7 @@
 page_id: blog
 layout: default
 permalink: /blog/
-title: blog
+title: Blog
 blog_name: FEBQI Blog
 description: Lab news and updates
 nav: true

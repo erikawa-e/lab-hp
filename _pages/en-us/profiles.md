@@ -2,7 +2,7 @@
 page_id: profiles
 layout: profiles
 permalink: /people/
-title: people
+title: People
 description: Members of the FEBQI research team
 nav: true
 nav_order: 2

@@ -2,7 +2,7 @@
 page_id: repositories
 layout: page
 permalink: /repositories/
-title: repositories
+title: Repositories
 description:
 nav: false
 nav_order: 8
