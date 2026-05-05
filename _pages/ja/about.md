@@ -34,7 +34,7 @@ latest_posts:
 - **固体ネオン上の電子** — 電荷・スピン状態の長いコヒーレンスを利用した量子メモリ
 - **極低温エレクトロニクス** — 量子ビット数の拡張に向けた極低温マイクロ波源の開発
 
-<p style="font-size:0.9em;"><a href="/ja/projects/">→ 詳しくはプロジェクトページへ</a></p>
+<p style="font-size:0.9em;"><a href="{{ '/ja/projects/' | relative_url }}">→ 詳しくはプロジェクトページへ</a></p>
 
 ## お知らせ
 
