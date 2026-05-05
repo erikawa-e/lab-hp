@@ -28,7 +28,7 @@ Our research focuses on electrons floating above liquid helium and solid neon as
 * **Electrons on solid neon** — Long coherence times for both charge and spin states, targeting quantum memory
 * **Cryogenic electronics** — Development of cryogenic microwave sources for scalable quantum computation
 
-<p style="font-size:0.9em;"><a href="{{ '/en-us/projects/' | relative_url }}">→ See projects for details</a></p>
+<p style="font-size:0.9em;"><a href="{{ '/projects/' | relative_url }}">→ See projects for details</a></p>
 
 ## Upcoming
 
