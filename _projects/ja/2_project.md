@@ -56,8 +56,8 @@ category: research
 一方、固体ネオンは固体であるため、表面が時間的に揺動しません。その結果、電子の量子性がより長く保たれることが、近年明らかになってきました。固体ネオン表面上の電子は、これまでほとんど研究されてきませんでしたが、ここ数年で、この系を用いて量子ビットを初めて実現したことで、大きな注目を集めています。ただし、固体であるがゆえに、表面の凹凸が大きいという課題が存在します。
 
 <p style="font-size:0.85em; color:#888; margin-top:1rem;">
-[4] X. Zhou et al., <em>Nat. Phys.</em> <strong>20</strong>, 116 (2024).<br>
-[5] X. Zhou et al., <em>Nature</em> <strong>605</strong>, 46 (2022).
+[4] X. Zhou et al., <em>Nature</em> <strong>605</strong>, 46 (2022).<br>
+[5] X. Zhou et al., <em>Nat. Phys.</em> <strong>20</strong>, 116 (2024).
 </p>
 
 <div style="margin-top:2rem;"></div>
