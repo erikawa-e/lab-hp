@@ -1,6 +1,12 @@
 repo_description_lines_max: 2
 
 github_repos:
-  - febqi/lab-hp
-  - febqi/plasmon
-  - febqi/density_profile
+  - repo: febqi/lab-hp
+    description: "Lab homepage source code (Jekyll / GitHub Pages)"
+    language: "HTML/SCSS"
+  - repo: febqi/plasmon
+    description: "Analysis code for plasmon experiments on electrons on liquid helium"
+    language: "Python"
+  - repo: febqi/density_profile
+    description: "Simulation of electron density profiles above cryogenic substrates"
+    language: "Python"
