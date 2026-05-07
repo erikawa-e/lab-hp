@@ -53,6 +53,32 @@ layout: default
         <a href="{{ '/blog/' | relative_url }}" style="color: inherit">{{ site.data[site.active_lang].strings.latest_posts }}</a>
       </h2>
       {% include news_posts_cards.liquid %}
+      <p style="font-size:0.9em;"><a href="{{ '/blog/' | relative_url }}">{% if site.active_lang == 'ja' %}→ 詳しくはブログへ{% else %}→ See blog for details{% endif %}</a></p>
+      <div id="bsky-feed" style="margin-top:1.5rem; border-left:3px solid #0085ff; padding-left:1rem;">
+        <p style="margin:0 0 0.5rem; font-weight:bold; color:#0085ff;">
+          <i class="fa-brands fa-bluesky"></i> Bluesky
+        </p>
+        <div id="bsky-posts"><p style="color:#aaa; font-size:0.9em;">{% if site.active_lang == 'ja' %}まだ投稿はありません — <a href="https://bsky.app/profile/febqi.bsky.social" target="_blank">Blueskyでフォローしてください</a>！{% else %}No posts yet — <a href="https://bsky.app/profile/febqi.bsky.social" target="_blank">follow us on Bluesky</a>!{% endif %}</p></div>
+      </div>
+      <script>
+      fetch("https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=febqi.bsky.social&limit=5")
+        .then(r => r.json())
+        .then(data => {
+          if (!data.feed || data.feed.length === 0) return;
+          const el = document.getElementById("bsky-posts");
+          const lang = "{{ site.active_lang }}";
+          el.innerHTML = data.feed.map(item => {
+            const post = item.post;
+            const text = post.record.text.replace(/\n/g, "<br>");
+            const date = new Date(post.record.createdAt).toLocaleDateString(lang === "ja" ? "ja-JP" : "en-US", {year:"numeric",month:"short",day:"numeric"});
+            const url = "https://bsky.app/profile/" + post.author.handle + "/post/" + post.uri.split("/").pop();
+            return `<div style="margin-bottom:1rem; padding-bottom:1rem; border-bottom:1px solid #eee;">
+              <p style="margin:0 0 0.3rem; font-size:0.95em;">${text}</p>
+              <a href="${url}" target="_blank" style="font-size:0.8em; color:#aaa;">${date}</a>
+            </div>`;
+          }).join("");
+        });
+      </script>
     {% endif %}
 
     <!-- Selected papers -->

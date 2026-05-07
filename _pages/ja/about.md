@@ -36,10 +36,10 @@ latest_posts:
 
 <p style="font-size:0.9em;"><a href="{{ '/ja/projects/' | relative_url }}">→ 詳しくはプロジェクトページへ</a></p>
 
-## お知らせ
-
-- **2026年5月18日** — [ワークショップ：固体ネオン上の電子によるスピン量子ビット実現へ向けて](https://sites.google.com/view/febqi/workshop)を主催。理研和光・ハイブリッド・参加無料
-
 ## 募集
 
 **ポスドク・インターン（3ヶ月以上）** を募集中です。[川上恵里加](mailto:erika.kawakami@riken.jp)までご連絡ください。
+
+## お知らせ
+
+- **2026年5月18日** — [ワークショップ：固体ネオン上の電子によるスピン量子ビット実現へ向けて](https://sites.google.com/view/febqi/workshop)を主催。理研和光・ハイブリッド・参加無料
