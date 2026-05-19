@@ -1,12 +1,6 @@
 name: Mirror to febqi/lab-hp
 
 on:
-  workflow_run:
-    workflows: ["Deploy site"]
-    types:
-      - completed
-    branches:
-      - main
   workflow_dispatch:
 
 jobs:
