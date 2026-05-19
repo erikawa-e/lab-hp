@@ -268,7 +268,7 @@ ninja.data = [{
           title: '研究概要',
           description: "液体ヘリウムや固体ネオン表面に浮かぶ電子の物理と量子応用",
           section: "Projects",handler: () => {
-              window.location.href = "/lab-hp/ja/projects/2-project/";
+              window.location.href = "/lab-hp/ja/projects/0-project/";
             },},{id: "projects-リュードベリ遷移",
           title: 'リュードベリ遷移',
           description: "リュードベリ遷移による量子キャパシタンス",
@@ -284,6 +284,11 @@ ninja.data = [{
           description: "JekyllとGitHub Pagesで構築、主にClaude Codeが作成",
           section: "Projects",handler: () => {
               window.location.href = "/lab-hp/ja/projects/7-project/";
+            },},{id: "projects-研究概要",
+          title: '研究概要',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/lab-hp/ja/projects/2-project/";
             },},{id: "projects-量子ドット",
           title: '量子ドット',
           description: "電子を狭い空間に閉じ込めた人工の原子",
