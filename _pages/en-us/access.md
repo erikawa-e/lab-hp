@@ -14,7 +14,7 @@ nav_order: 10
 <p>
 <strong>RIKEN Wako Campus,<br>Chemistry and Materials Physics Building (S51)</strong><br>
 2-1, Hirosawa, Wako, Saitama 351-0198, Japan<br>
-Lab offices: Rooms N508-1, N105-2, N108-1<br>
+Office: N508-1, Labs: N105-2, N108-1<br>
 <a href="https://www.google.com/maps?q=35.77664,139.61083" target="_blank">35.77664°N, 139.61083°E — View on Google Maps</a>
 </p>
 </div>
