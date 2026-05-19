@@ -55,7 +55,7 @@ nav_order: 9
 </td></tr>
 <tr><th style="padding-top:1.5em;">外部資金（分担者）</th></tr>
 <tr><td>
-  <div><strong>JST 次世代のためのASPIRE 日英共同研究課題</strong> <span style="color:#888; font-size:0.9em;">2025–2030</span></div>
+  <div><strong>JST ASPIRE 日英共同研究課題</strong> <span style="color:#888; font-size:0.9em;">2025–2030</span></div>
   <div style="font-size:0.9em;">半導体量子ドット技術の大規模スケール化</div>
   <div style="font-size:0.9em; color:#888;">日本側代表: 小寺 哲夫 &nbsp;|&nbsp; 英国側代表: 片岡 真哉</div>
   <div style="font-size:0.9em; color:#888;">分担者: Asher Jennings &nbsp;|&nbsp; 分担額: 50,000千円</div>
