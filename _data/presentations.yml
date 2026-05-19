@@ -1,4 +1,15 @@
 - year: 2026
+  date: "May 19, 2026"
+  type: Oral
+  lang: en
+  title: "Towards Floating-Electron Qubits Using Resonators"
+  conference: "Quantum Science and Technology Exchange - Finland / Japan"
+  presenter_html: '<span class="author"><u>Erika Kawakami</u><sup>*</sup></span>'
+  invited: true
+  venue: "RIKEN Wako"
+  url: https://iqm.tech/quantum-science-and-technology-exchange-finland-japan/
+
+- year: 2026
   date: "Mar 23–26, 2026"
   type: Oral
   lang: ja
