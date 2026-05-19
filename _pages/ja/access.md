@@ -14,7 +14,7 @@ nav_order: 10
 <p>
 <strong>理化学研究所 和光キャンパス<br>物質科学研究棟(S51)</strong><br>
 〒351-0198 埼玉県和光市広沢2-1<br>
-オフィス: N508-1、実験室: N105-2, N108-1号室<br>
+居室: N508-1  実験室: N105-2, N108-1<br>
 <a href="https://www.google.com/maps?q=35.77664,139.61083" target="_blank">35.77664°N, 139.61083°E — Googleマップで見る</a>
 </p>
 </div>
