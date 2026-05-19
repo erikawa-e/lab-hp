@@ -59,6 +59,9 @@ layout: default
           <i class="fa-brands fa-bluesky"></i> Bluesky
         </p>
         <div id="bsky-posts"><p style="color:#aaa; font-size:0.9em;">{% if site.active_lang == 'ja' %}まだ投稿はありません — <a href="https://bsky.app/profile/febqi.bsky.social" target="_blank">Blueskyでフォローしてください</a>！{% else %}No posts yet — <a href="https://bsky.app/profile/febqi.bsky.social" target="_blank">follow us on Bluesky</a>!{% endif %}</p></div>
+        <p style="margin-top:0.5rem; font-size:0.85em;">
+          <a href="https://bsky.app/profile/febqi.bsky.social" target="_blank" style="color:#0085ff;">{% if site.active_lang == 'ja' %}→ Blueskyで全投稿を見る{% else %}→ View all posts on Bluesky{% endif %}</a>
+        </p>
       </div>
       <script>
       fetch("https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=febqi.bsky.social&limit=5")
@@ -67,7 +70,7 @@ layout: default
           if (!data.feed || data.feed.length === 0) return;
           const el = document.getElementById("bsky-posts");
           const lang = "{{ site.active_lang }}";
-          el.innerHTML = data.feed.map(item => {
+          const renderPost = item => {
             const post = item.post;
             const text = post.record.text.replace(/\n/g, "<br>");
             const date = new Date(post.record.createdAt).toLocaleDateString(lang === "ja" ? "ja-JP" : "en-US", {year:"numeric",month:"short",day:"numeric"});
@@ -76,7 +79,18 @@ layout: default
               <p style="margin:0 0 0.3rem; font-size:0.95em;">${text}</p>
               <a href="${url}" target="_blank" style="font-size:0.8em; color:#aaa;">${date}</a>
             </div>`;
-          }).join("");
+          };
+          const posts = data.feed;
+          let html = renderPost(posts[0]);
+          if (posts.length > 1) {
+            const moreLabel = lang === "ja" ? "もっと見る" : "Show more";
+            const lessLabel = lang === "ja" ? "閉じる" : "Show less";
+            const morePosts = posts.slice(1).map(renderPost).join("");
+            html += `<div id="bsky-more" style="display:none;">${morePosts}</div>
+              <a href="#" id="bsky-toggle" style="font-size:0.85em; color:#0085ff;"
+                onclick="var m=document.getElementById('bsky-more'),t=document.getElementById('bsky-toggle');if(m.style.display==='none'){m.style.display='block';t.textContent='${lessLabel}';}else{m.style.display='none';t.textContent='${moreLabel}';}return false;">${moreLabel}</a>`;
+          }
+          el.innerHTML = html;
         });
       </script>
     {% endif %}

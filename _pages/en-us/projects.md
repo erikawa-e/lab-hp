@@ -18,7 +18,7 @@ horizontal: false
       <a id="{{ site.data[site.active_lang].strings.categories[category] }}" href=".#{{ site.data[site.active_lang].strings.categories[category] }}">
         <h2 class="category">{{ site.data[site.active_lang].strings.categories[category] }}</h2>
       </a>
-      {% assign categorized_projects = site.projects | where: "category", category %}
+      {% assign categorized_projects = site.projects | where: "category", category | where_exp: "project", "project.page_id != 'intro'" %}
       {% assign sorted_projects = categorized_projects | sort: "importance" %}
       <!-- Generate cards for each project -->
       {% if page.horizontal %}
