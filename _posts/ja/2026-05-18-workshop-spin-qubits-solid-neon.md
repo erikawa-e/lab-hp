@@ -5,7 +5,7 @@ date: 2026-05-18 00:00:00+0900
 description: 理研和光キャンパス（ハイブリッド）にてワークショップを開催しました
 tags: conference
 categories: news
-thumbnail: assets/img/workshop_spin_qubits_2026.png
+thumbnail: assets/img/workshop_spin_qubits_2026_thumb.jpg
 ---
 
 固体ネオン上の電子を用いたスピン量子ビット実現へ向けたワークショップを開催しました。ご講演・ご参加いただいた皆様、誠にありがとうございました。
