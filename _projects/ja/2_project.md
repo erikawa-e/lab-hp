@@ -6,6 +6,7 @@ description: 液体ヘリウムや固体ネオン表面に浮かぶ電子の物�
 img: assets/img/intro_floating_electron.png
 importance: 0
 category: research
+en_hidden: true
 ---
 
 私たちの研究室では、液体ヘリウムや固体ネオンの表面の真空中に浮かぶ電子を用いて、基礎的な物理の解明や、それを応用した量子ビットの実現を目指す研究を行っています。

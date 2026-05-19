@@ -6,6 +6,8 @@ title: Erika Kawakami
 nav: false
 ---
 
+<p style="font-size:0.8em; color:#bbb; margin-top:-0.5rem; margin-bottom:1.5rem;"><a href="https://sites.google.com/view/febqi/members/erika" target="_blank" style="color:#bbb;">Old profile page</a></p>
+
 <div style="display:flex; gap:2rem; align-items:flex-start; flex-wrap:wrap; margin-bottom:1rem;">
   <img src="{{ '/assets/img/Erika_sax.png' | relative_url }}" alt="Erika Kawakami" style="width:180px; border-radius:8px; flex-shrink:0;">
   <div>
