@@ -26,7 +26,7 @@ nav_order: 2
 |------|------|
 | RIKEN Hakubi Team Leader | Erika Kawakami &nbsp; [Email](mailto:erika.kawakami@riken.jp) &nbsp; [CV]({{ '/cv/' | relative_url }}) &nbsp; [Profile]({{ '/members/erika/' | relative_url }}) |
 | Technical Scientist | Ivan Grytsenko |
-| Postdoc | Asher Jennings |
+| Postdoc | Asher Jennings &nbsp; [Profile](https://sites.google.com/view/febqi/members/ash) |
 | Postdoc | Jun Wang |
 | IPA Student | Yiran Tian |
 | Trainee | Hochan Chung |
