@@ -83,7 +83,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/lab-hp/access/";
           },
-        },{id: "post-welcome-back-xianjing",
+        },{id: "post-workshop-towards-spin-qubits-of-electrons-on-solid-neon",
+        
+          title: "Workshop: Towards Spin Qubits of Electrons on Solid Neon",
+        
+        description: "Workshop hosted at RIKEN Wako Campus (hybrid)",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/lab-hp/blog/2026/workshop-spin-qubits-solid-neon/";
+          
+        },
+      },{id: "post-welcome-back-xianjing",
         
           title: "Welcome back, Xianjing!",
         
@@ -253,16 +264,16 @@ ninja.data = [{
           description: "",
           section: "",handler: () => {
               window.location.href = "/lab-hp/books/en-us/the_godfather/";
+            },},{id: "projects-overview",
+          title: 'Overview',
+          description: "Electrons floating in vacuum above liquid helium and solid neon",
+          section: "Projects",handler: () => {
+              window.location.href = "/lab-hp/projects/0-project/";
             },},{id: "projects-rydberg-transitions",
           title: 'Rydberg Transitions',
           description: "Quantum capacitance induced by Rydberg transitions",
           section: "Projects",handler: () => {
               window.location.href = "/lab-hp/projects/1-project/";
-            },},{id: "projects-overview",
-          title: 'Overview',
-          description: "Physics and quantum applications of electrons floating on liquid helium and solid neon",
-          section: "Projects",handler: () => {
-              window.location.href = "/lab-hp/projects/2-project/";
             },},{id: "projects-cryogenic-electronics",
           title: 'Cryogenic Electronics',
           description: "Development of cryogenic microwave sources for scalable quantum computing",
@@ -273,6 +284,11 @@ ninja.data = [{
           description: "Built with Jekyll and GitHub Pages, primarily by Claude Code",
           section: "Projects",handler: () => {
               window.location.href = "/lab-hp/projects/7-project/";
+            },},{id: "projects-研究概要",
+          title: '研究概要',
+          description: "液体ヘリウムや固体ネオン表面に浮かぶ電子の物理と量子応用",
+          section: "Projects",handler: () => {
+              window.location.href = "/lab-hp/projects/2-project/";
             },},{id: "projects-量子ドット",
           title: '量子ドット',
           description: "電子を狭い空間に閉じ込めた人工の原子",

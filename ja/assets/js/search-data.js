@@ -83,7 +83,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/lab-hp/ja/access/";
           },
-        },{id: "post-xianjingおかえり",
+        },{id: "post-ワークショップ-固体ネオン上の電子によるスピン量子ビット実現へ向けて-を開催しました",
+        
+          title: "ワークショップ「固体ネオン上の電子によるスピン量子ビット実現へ向けて」を開催しました",
+        
+        description: "理研和光キャンパス（ハイブリッド）にてワークショップを開催しました",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/lab-hp/ja/blog/2026/workshop-spin-qubits-solid-neon/";
+          
+        },
+      },{id: "post-xianjingおかえり",
         
           title: "Xianjingおかえり！",
         
@@ -253,16 +264,16 @@ ninja.data = [{
           description: "",
           section: "",handler: () => {
               window.location.href = "/lab-hp/ja/books/en-us/the_godfather/";
+            },},{id: "projects-overview",
+          title: 'Overview',
+          description: "Electrons floating in vacuum above liquid helium and solid neon",
+          section: "Projects",handler: () => {
+              window.location.href = "/lab-hp/ja/projects/0-project/";
             },},{id: "projects-リュードベリ遷移",
           title: 'リュードベリ遷移',
           description: "リュードベリ遷移による量子キャパシタンス",
           section: "Projects",handler: () => {
               window.location.href = "/lab-hp/ja/projects/1-project/";
-            },},{id: "projects-研究概要",
-          title: '研究概要',
-          description: "液体ヘリウムや固体ネオン表面に浮かぶ電子の物理と量子応用",
-          section: "Projects",handler: () => {
-              window.location.href = "/lab-hp/ja/projects/2-project/";
             },},{id: "projects-極低温エレクトロニクス",
           title: '極低温エレクトロニクス',
           description: "大規模量子コンピューターの実現に向けた極低温マイクロ波発振器の開発",
@@ -273,6 +284,11 @@ ninja.data = [{
           description: "JekyllとGitHub Pagesで構築、主にClaude Codeが作成",
           section: "Projects",handler: () => {
               window.location.href = "/lab-hp/ja/projects/7-project/";
+            },},{id: "projects-研究概要",
+          title: '研究概要',
+          description: "液体ヘリウムや固体ネオン表面に浮かぶ電子の物理と量子応用",
+          section: "Projects",handler: () => {
+              window.location.href = "/lab-hp/ja/projects/2-project/";
             },},{id: "projects-量子ドット",
           title: '量子ドット',
           description: "電子を狭い空間に閉じ込めた人工の原子",
