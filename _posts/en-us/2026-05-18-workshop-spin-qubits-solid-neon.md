@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Workshop: Towards Spin Qubits of Electrons on Solid Neon"
-date: 2026-05-18 00:00:00+0900
+date: 2026-05-18 12:00:00+0900
 description: Workshop hosted at RIKEN Wako Campus (hybrid)
 tags: conference
 categories: news
