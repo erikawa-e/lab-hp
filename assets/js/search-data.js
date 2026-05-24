@@ -264,8 +264,8 @@ ninja.data = [{
           description: "",
           section: "",handler: () => {
               window.location.href = "/lab-hp/books/en-us/the_godfather/";
-            },},{id: "projects-overview",
-          title: 'Overview',
+            },},{id: "projects-overview-of-the-floating-electron-system",
+          title: 'Overview of the Floating Electron System',
           description: "Electrons floating in vacuum above liquid helium and solid neon",
           section: "Projects",handler: () => {
               window.location.href = "/lab-hp/projects/0-project/";
@@ -284,6 +284,16 @@ ninja.data = [{
           description: "Built with Jekyll and GitHub Pages, primarily by Claude Code",
           section: "Projects",handler: () => {
               window.location.href = "/lab-hp/projects/7-project/";
+            },},{id: "projects-plasmon-photon-coherent-coupling",
+          title: 'Plasmon–Photon Coherent Coupling',
+          description: "Coherent coupling between plasmons and photons in a clean two-dimensional electron system",
+          section: "Projects",handler: () => {
+              window.location.href = "/lab-hp/projects/8-project/";
+            },},{id: "projects-electrons-on-solid-neon-toward-high-fidelity-qubits",
+          title: 'Electrons on Solid Neon: Toward High-Fidelity Qubits',
+          description: "Nb-Ti-N nanowire resonators and prospects for spin-photon coupling with electrons on solid neon",
+          section: "Projects",handler: () => {
+              window.location.href = "/lab-hp/projects/9-project/";
             },},{id: "projects-研究概要",
           title: '研究概要',
           description: "",

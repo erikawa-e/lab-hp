@@ -264,8 +264,8 @@ ninja.data = [{
           description: "",
           section: "",handler: () => {
               window.location.href = "/lab-hp/ja/books/en-us/the_godfather/";
-            },},{id: "projects-研究概要",
-          title: '研究概要',
+            },},{id: "projects-浮揚電子系の概要",
+          title: '浮揚電子系の概要',
           description: "液体ヘリウムや固体ネオン表面に浮かぶ電子の物理と量子応用",
           section: "Projects",handler: () => {
               window.location.href = "/lab-hp/ja/projects/0-project/";
@@ -284,6 +284,16 @@ ninja.data = [{
           description: "JekyllとGitHub Pagesで構築、主にClaude Codeが作成",
           section: "Projects",handler: () => {
               window.location.href = "/lab-hp/ja/projects/7-project/";
+            },},{id: "projects-プラズモン-光子コヒーレント結合",
+          title: 'プラズモン－光子コヒーレント結合',
+          description: "クリーンな二次元電子系を用いたプラズモン－光子コヒーレント結合の実証",
+          section: "Projects",handler: () => {
+              window.location.href = "/lab-hp/ja/projects/8-project/";
+            },},{id: "projects-固体ネオン上の電子-高精度量子ビットへの道",
+          title: '固体ネオン上の電子：高精度量子ビットへの道',
+          description: "NbTiNナノワイヤ共振器と固体ネオン上の電子を用いたスピン－光子強結合の設計",
+          section: "Projects",handler: () => {
+              window.location.href = "/lab-hp/ja/projects/9-project/";
             },},{id: "projects-研究概要",
           title: '研究概要',
           description: "",
