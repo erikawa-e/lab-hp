@@ -1,7 +1,7 @@
 ---
 page_id: intro
 layout: page
-title: Overview
+title: Overview of the Floating Electron System
 description: Electrons floating in vacuum above liquid helium and solid neon
 img: assets/img/overview_floating_electron.png
 importance: 0

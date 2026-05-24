@@ -1,7 +1,7 @@
 ---
 page_id: intro
 layout: page
-title: 研究概要
+title: 浮揚電子系の概要
 description: 液体ヘリウムや固体ネオン表面に浮かぶ電子の物理と量子応用
 img: assets/img/intro_floating_electron.png
 importance: 0
