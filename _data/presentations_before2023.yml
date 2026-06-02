@@ -1,0 +1,224 @@
+# Presentations before April 2023
+
+- year: 2023
+  date: "Oct. 2023"
+  type: Oral
+  lang: E
+  title: "Blueprint for quantum computing using electrons on helium and dispersive read-out of the Rydberg States"
+  presenter_html: '<span class="author"><u>Asher Jennings</u><sup>*</sup></span>, <u>Ivan Grytsenko</u>, <u>Oleksiy Rybalko</u>, <u>Yiran Tian</u>, <u>Rajesh Mohan</u>, <u>Erika Kawakami</u><sup>*</sup>'
+  conference: "QIE 2023"
+  reviewed: true
+  url: "https://groups.oist.jp/qist/1st-international-workshop-quantum-information-engineering-qie2023"
+
+- year: 2023
+  date: "Sep.–Oct. 2023"
+  type: Poster
+  lang: E
+  title: "Improvement of cryogenic LC circuit for image-charge detection of surface electrons on helium as qubit"
+  presenter_html: '<span class="author"><u>Yiran Tian</u><sup>*</sup></span>, <u>Asher Jennings</u>, <u>Ivan Grytsenko</u>, <u>Oleksiy Rybalko</u>, <u>Rajesh Mohan</u>, <u>Erika Kawakami</u><sup>*</sup>'
+  conference: "Okinawa School in Physics 2023: Coherent Quantum Dynamics"
+  reviewed: true
+  url: "https://groups.oist.jp/cqd"
+
+- year: 2023
+  date: "Sep. 2023"
+  type: Oral
+  lang: J
+  title: "浮いている電子を使って量子ビットを作る"
+  presenter_html: '<span class="author"><u>川上恵里加</u><sup>*</sup></span>'
+  conference: "量子情報関東Student Chapter"
+  invited: true
+  url: "https://quangaroo.web.fc2.com/index.html"
+
+- year: 2023
+  date: "Aug. 2023"
+  type: Poster
+  lang: E
+  title: "Integration of a cryogenic LC circuit to image-charge detection for surface electrons on helium"
+  presenter_html: '<span class="author"><u>Asher Jennings</u><sup>*</sup></span>, <u>Ivan Grytsenko</u>, <u>Oleksiy Rybalko</u>, <u>Erika Kawakami</u><sup>*</sup>'
+  conference: "QFS 2023"
+  reviewed: true
+  url: "https://qfs2023.org/programme/"
+
+- year: 2023
+  date: "May 2023"
+  type: Oral
+  lang: J
+  title: "浮揚電子で量子ビットを作る ～ LC共振回路を用いた読み出し"
+  presenter_html: '<span class="author"><u>川上恵里加</u><sup>*</sup></span>'
+  conference: "QIT48"
+  invited: true
+  url: "https://www.ieice.org/es/qit/qit48/"
+
+- year: 2023
+  date: "May 2023"
+  type: Oral
+  lang: J
+  title: "ヘリウム表面上の電子を用いた実験: 最近の研究と量子シミュレーションの可能性"
+  presenter_html: '<span class="author"><u>川上恵里加</u><sup>*</sup></span>'
+  conference: "極限宇宙ワークショップ"
+  invited: true
+  url: "https://www2.yukawa.kyoto-u.ac.jp/~extremeuniverse/events/exuws-may-2023/"
+
+- year: 2023
+  date: "Mar. 2023"
+  type: Poster
+  lang: J
+  title: "Improvement on the cryogenic circuit with tunnel-diode for qubit read-out"
+  presenter_html: '<span class="author"><u>Ivan Grytsenko</u></span>, <u>Rajesh Mohan</u>, <u>Oleksiy Rybalko</u>, <u>Erika Kawakami</u><sup>*</sup>'
+  conference: "第70回応用物理学会春季学術講演会"
+  reviewed: true
+
+- year: 2023
+  date: "Mar. 2023"
+  type: Oral
+  lang: J
+  title: "ヘリウム表面上の電子を用いた量子ビット実現へ向けて：LC共振回路を用いた読み出し"
+  presenter_html: '<span class="author"><u>川上恵里加</u><sup>*</sup></span>'
+  conference: "第70回応用物理学会春季学術講演会 シンポジウム"
+  invited: true
+
+- year: 2023
+  date: "Jan. 2023"
+  type: Oral
+  lang: J
+  title: "浮揚電子量子コンピュータ"
+  presenter_html: '<span class="author"><u>川上恵里加</u><sup>*</sup></span>'
+  conference: "学振R031ハイブリッド量子ナノ技術委員会 第9回研究会"
+  invited: true
+  url: "https://jsps-r031.iis.u-tokyo.ac.jp/kenkyukai/next-kenkyukai/"
+
+- year: 2022
+  date: "Sep. 2022"
+  type: Oral
+  lang: E
+  title: "Floating electrons as qubits"
+  presenter_html: '<span class="author"><u>Erika Kawakami</u><sup>*</sup></span>'
+  conference: "Quantum Africa"
+  invited: true
+  url: "https://qa.eaifr.org/?page_id=1327"
+
+- year: 2022
+  date: "Aug. 2022"
+  type: Poster
+  lang: E
+  title: "Using a cryogenic tunable resonance circuit to image-charge detection of surface electrons on He II"
+  presenter_html: '<span class="author"><u>Ivan Grytsenko</u></span>, <u>Asher Jennings</u>, <u>Oleksiy Rybalko</u>, <u>Erika Kawakami</u><sup>*</sup>'
+  conference: "ULT2022"
+  reviewed: true
+  url: "https://ult2022.org/index.html"
+
+- year: 2022
+  date: "Aug. 2022"
+  type: Oral
+  lang: E
+  title: "Hybrid Rydberg-spin qubits of electrons on helium"
+  presenter_html: '<span class="author"><u>Erika Kawakami</u><sup>*</sup></span>, Jiabao Chen, Monica Benito, Denis Konstantinov'
+  conference: "ULT2022"
+  invited: true
+  url: "https://ult2022.org/index.html"
+
+- year: 2022
+  date: "Aug. 2022"
+  type: Oral
+  lang: E
+  title: "Dispersive read-out of the Rydberg States: towards realizing qubits using electrons on helium"
+  presenter_html: '<span class="author"><u>Erika Kawakami</u><sup>*</sup></span>'
+  conference: "APPC15"
+  invited: true
+
+- year: 2022
+  date: "Aug. 2022"
+  type: Poster
+  lang: E
+  title: "Cryogenic tunnel-diode-oscillator for qubit read-out"
+  presenter_html: '<span class="author"><u>D. Yoshikawa</u></span>, <u>Ivan Grytsenko</u>, Y. Kato, <u>Oleksiy Rybalko</u>, H. Nakao, N. Yamamoto, Denis Konstantinov, <u>Erika Kawakami</u><sup>*</sup>'
+  conference: "LT29"
+  reviewed: true
+  url: "https://www.lt29.jp/"
+
+- year: 2022
+  date: "Aug. 2022"
+  type: Oral
+  lang: E
+  title: "Integration of a cryogenic LC circuit to image-charge detection for surface electrons on helium"
+  presenter_html: '<span class="author"><u>Ivan Grytsenko</u></span>, <u>Oleksiy Rybalko</u>, <u>Erika Kawakami</u><sup>*</sup>'
+  conference: "LT29"
+  reviewed: true
+  url: "https://www.lt29.jp/"
+
+- year: 2022
+  date: "Jun. 2022"
+  type: Oral
+  lang: J
+  title: "ヘリウム表面上の電子を用いた量子ビットの実現"
+  presenter_html: '<span class="author"><u>川上恵里加</u><sup>*</sup></span>'
+  conference: "「融合の場」第１回公開シンポジウム"
+  url: "https://www.jst.go.jp/souhatsu/event/pff_22/file/titech_flyer.pdf"
+
+- year: 2022
+  date: "Jun. 2022"
+  type: Oral
+  lang: J
+  title: "ヘリウム表面上の電子を用いた高性能量子ビット実現へ向けて"
+  presenter_html: '<span class="author"><u>川上恵里加</u><sup>*</sup></span>'
+  conference: "第18回AMO討論会"
+  invited: true
+  url: "http://www.atmos.jp/"
+
+- year: 2022
+  date: "Feb. 2022"
+  type: Oral
+  lang: E
+  title: "Dispersive read-out of the Rydberg states of electrons on helium"
+  presenter_html: '<span class="author"><u>Erika Kawakami</u><sup>*</sup></span>'
+  conference: "DAQS2022"
+  invited: true
+  url: "https://rqc.riken.jp/daqs2022/program.html"
+
+- year: 2021
+  date: "Oct. 2021"
+  type: Oral
+  lang: J
+  title: "浮揚電子による量子情報"
+  presenter_html: '<span class="author"><u>川上恵里加</u><sup>*</sup></span>'
+  conference: "量子情報工学の最前線"
+  invited: true
+  url: "https://annex.jsap.or.jp/qie/symposium/conference2021.html"
+
+- year: 2021
+  date: "Aug. 2021"
+  type: Oral
+  lang: E
+  title: "Towards realizing spin qubits using electrons on helium"
+  presenter_html: '<span class="author"><u>Erika Kawakami</u><sup>*</sup></span>'
+  conference: "QFS2021"
+  invited: true
+
+- year: 2021
+  date: "Aug. 2021"
+  type: Poster
+  lang: E
+  title: "Optimization of a cryogenic LC-tank circuit for detection of the Rydberg state of electrons on helium"
+  presenter_html: '<span class="author"><u>Ivan Grytsenko</u></span>, <u>Oleksiy Rybalko</u>, <u>Erika Kawakami</u><sup>*</sup>'
+  conference: "QFS2021"
+  reviewed: true
+
+- year: 2021
+  date: "Jul. 2021"
+  type: Oral
+  lang: E
+  title: "Radio-Frequency Measurements of the Rydberg States: towards realizing qubits using electrons on helium"
+  presenter_html: '<span class="author"><u>Erika Kawakami</u><sup>*</sup></span>'
+  conference: "Quantum matter at ultra-low temperatures"
+  invited: true
+
+- year: 2021
+  date: "Jun. 2021"
+  type: Oral
+  lang: J
+  title: "ヘリウム液面電子を用いて量子コンピュータを実現することを目指した研究"
+  presenter_html: '<span class="author"><u>川上恵里加</u><sup>*</sup></span>'
+  conference: "第２回ナノスケール物性科学の最先端と新展開"
+  invited: true
+  url: "https://hasegawa.issp.u-tokyo.ac.jp/2021nanoworkshop"
