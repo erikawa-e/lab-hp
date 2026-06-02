@@ -1,5 +1,7 @@
 # FEBQI Lab Homepage
 
+Bilingual (English / Japanese) lab website for the FEBQI group at RIKEN.
+
 Homepage of the **FEBQI (Floating Electrons and Beyond for Quantum Information) Lab**, led by Erika Kawakami at the RIKEN Center for Quantum Computing.
 
 - **Live site (production):** https://febqi.github.io/lab-hp/
