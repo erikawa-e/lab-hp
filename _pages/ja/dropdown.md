@@ -17,4 +17,7 @@ children:
   - title: divider
   - title: 受賞
     permalink: /awards/
+  - title: divider
+  - title: エクスポート
+    permalink: /export/
 ---
