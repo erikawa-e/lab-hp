@@ -62,6 +62,13 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/lab-hp/ja/awards/";
               },
+            },{id: "dropdown-エクスポート",
+              title: "エクスポート",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/lab-hp/ja/export/";
+              },
             },{id: "nav-プロジェクト",
           title: "プロジェクト",
           description: "研究プロジェクト・活動紹介",
@@ -83,7 +90,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/lab-hp/ja/access/";
           },
-        },{id: "post-ワークショップ-固体ネオン上の電子によるスピン量子ビット実現へ向けて-を開催しました",
+        },{id: "post-ネオン上の電子の電荷量子ビット論文をarxivに公開",
+        
+          title: "ネオン上の電子の電荷量子ビット論文をarXivに公開",
+        
+        description: "ネオン上の電子の電荷量子ビット論文をarXivに公開しました",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/lab-hp/ja/blog/2026/neon-qubit-arxiv/";
+          
+        },
+      },{id: "post-ワークショップ-固体ネオン上の電子によるスピン量子ビット実現へ向けて-を開催しました",
         
           title: "ワークショップ「固体ネオン上の電子によるスピン量子ビット実現へ向けて」を開催しました",
         

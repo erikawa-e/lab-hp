@@ -62,6 +62,13 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/lab-hp/awards/";
               },
+            },{id: "dropdown-export",
+              title: "Export",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/lab-hp/export/";
+              },
             },{id: "nav-projects",
           title: "Projects",
           description: "Selected research projects and activities.",
@@ -83,7 +90,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/lab-hp/access/";
           },
-        },{id: "post-workshop-towards-spin-qubits-of-electrons-on-solid-neon",
+        },{id: "post-neon-charge-qubit-paper-posted-on-arxiv",
+        
+          title: "Neon charge qubit paper posted on arXiv",
+        
+        description: "Our neon charge qubit paper is now on arXiv",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/lab-hp/blog/2026/neon-qubit-arxiv/";
+          
+        },
+      },{id: "post-workshop-towards-spin-qubits-of-electrons-on-solid-neon",
         
           title: "Workshop: Towards Spin Qubits of Electrons on Solid Neon",
         
