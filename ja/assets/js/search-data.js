@@ -277,12 +277,7 @@ ninja.data = [{
             window.location.href = "/lab-hp/ja/blog/2022/cherry-blossoms-2022/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "",handler: () => {
-              window.location.href = "/lab-hp/ja/books/en-us/the_godfather/";
-            },},{id: "projects-浮揚電子系の概要",
+      },{id: "projects-浮揚電子系の概要",
           title: '浮揚電子系の概要',
           description: "液体ヘリウムや固体ネオン表面に浮かぶ電子の物理と量子応用",
           section: "Projects",handler: () => {

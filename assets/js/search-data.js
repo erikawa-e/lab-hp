@@ -277,12 +277,7 @@ ninja.data = [{
             window.location.href = "/lab-hp/blog/2022/cherry-blossoms-2022/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "",handler: () => {
-              window.location.href = "/lab-hp/books/en-us/the_godfather/";
-            },},{id: "projects-overview-of-the-floating-electron-system",
+      },{id: "projects-overview-of-the-floating-electron-system",
           title: 'Overview of the Floating Electron System',
           description: "Electrons floating in vacuum above liquid helium and solid neon",
           section: "Projects",handler: () => {
