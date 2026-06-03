@@ -9,9 +9,9 @@ Homepage of the **FEBQI (Floating Electrons and Beyond for Quantum Information) 
 
 ## Development workflow
 
-1. Edit files in this repository
+1. Edit files in the development repository
 2. Push to verify: `git push`
-3. When ready to publish to `febqi/lab-hp`: trigger the **Mirror to febqi/lab-hp** workflow from the Actions tab
+3. When ready to publish to `febqi/lab-hp`: trigger the **Mirror to febqi/lab-hp** workflow from the Actions tab in the development repository
 
 ### Mirror workflow setup
 
