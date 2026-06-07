@@ -13,7 +13,7 @@ tabs: true
   Future dates represent scheduled events.
 </p>
 <p style="font-size: 0.9em; margin-bottom: 0.5em;">
-  Japanese-language presentations are listed on the <a href="/ja/presentations/">Japanese page</a> only.
+  Japanese-language presentations are listed on the <a href="{{ '/ja/presentations/' | relative_url }}">Japanese page</a> only.
 </p>
 <p style="font-size: 0.9em; margin-bottom: 1em;">
   <u>Underline</u>: FEBQI lab member &nbsp;|&nbsp; <sup>*</sup>: Corresponding author
@@ -60,7 +60,7 @@ tabs: true
 
 <li>
 <table class="table table-sm" style="font-size: 0.9em;">
-{% for pres in site.data.presentations_old %}
+{% for pres in site.data.presentations_before2023 %}
   {% if pres.lang == "J" %}{% continue %}{% endif %}
 <tr>
   <td style="white-space: nowrap; padding-right: 1em; color: #888;">{{ pres.date }}</td>

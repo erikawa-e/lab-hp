@@ -9,7 +9,7 @@ nav_order: 6
 tabs: true
 ---
 
-<p style="font-size: 0.85em; color: #888; margin-bottom: 1rem;">Japanese-language outreach activities are listed on the <a href="/ja/outreach/">Japanese page</a> only.</p>
+<p style="font-size: 0.85em; color: #888; margin-bottom: 1rem;">Japanese-language outreach activities are listed on the <a href="{{ '/ja/outreach/' | relative_url }}">Japanese page</a> only.</p>
 
 <ul class="tab" data-tab="tab-outreach-en">
   <li class="active"><a href="#">Review Articles</a></li>
@@ -70,7 +70,7 @@ tabs: true
   </td>
 </tr>
 {% endfor %}
-{% for act in site.data.outreach_activities_old %}
+{% for act in site.data.outreach_activities_before2023 %}
   {% if act.lang == "ja" %}{% continue %}{% endif %}
 <tr>
   <td style="white-space: nowrap; padding-right: 1em; color: #888;">{{ act.date }}</td>
