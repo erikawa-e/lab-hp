@@ -25,4 +25,4 @@ jobs:
       - name: Push to febqi/lab-hp
         run: |
           git remote add febqi https://x-access-token:${{ secrets.FEBQI_TOKEN }}@github.com/febqi/lab-hp.git
-          git push febqi main 2>&1
+          git push --force febqi main 2>&1
