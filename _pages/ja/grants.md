@@ -24,7 +24,7 @@ nav_order: 9
   <div style="font-size:0.9em; color:#888;">研究代表者: 川上 恵里加 &nbsp;|&nbsp; 総額: 3,000千円</div>
 </td></tr>
 <tr><td>
-  <div><strong>服部報公会 工学研究奨励援助</strong> <span style="color:#888; font-size:0.9em;">2025–2026</span></div>
+  <div><strong>服部報公会 工学研究奨励援助金</strong> <span style="color:#888; font-size:0.9em;">2025–2026</span></div>
   <div style="font-size:0.9em;">純粋物理系におけるマイクロ波光子とプラズモンの強結合</div>
   <div style="font-size:0.9em; color:#888;">研究代表者: 川上 恵里加 &nbsp;|&nbsp; 総額: 1,000千円</div>
 </td></tr>

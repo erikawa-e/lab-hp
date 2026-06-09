@@ -73,7 +73,7 @@ tabs: true
   </td>
 </tr>
 {% endfor %}
-{% for act in site.data.outreach_activities_old %}
+{% for act in site.data.outreach_activities_before2023 %}
 <tr>
   <td style="white-space: nowrap; padding-right: 1em; color: #888;">{{ act.date_ja | default: act.date }}</td>
   <td>

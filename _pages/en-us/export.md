@@ -69,10 +69,10 @@ Enter a date range in each section and download a CSV, then upload it via Resear
 
 <script>
 var PRES_DATA     = {{ site.data.presentations | jsonify }};
-var PRES_OLD      = {{ site.data.presentations_old | jsonify }};
+var PRES_OLD      = {{ site.data.presentations_before2023 | jsonify }};
 var AWARD_DATA    = {{ site.data.awards | jsonify }};
 var OUTREACH_DATA = {{ site.data.outreach_activities | jsonify }};
-var OUTREACH_OLD  = {{ site.data.outreach_activities_old | jsonify }};
+var OUTREACH_OLD  = {{ site.data.outreach_activities_before2023 | jsonify }};
 
 var MONTHS = {Jan:1,Feb:2,Mar:3,Apr:4,May:5,Jun:6,Jul:7,Aug:8,Sep:9,Oct:10,Nov:11,Dec:12};
 function pad(n){ return String(n).padStart(2,'0'); }

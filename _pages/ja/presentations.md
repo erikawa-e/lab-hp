@@ -56,7 +56,7 @@ tabs: true
 
 <li>
 <table class="table table-sm" style="font-size: 0.9em;">
-{% for pres in site.data.presentations_old %}
+{% for pres in site.data.presentations_before2023 %}
 <tr>
   <td style="white-space: nowrap; padding-right: 1em; color: #888;">{{ pres.date }}</td>
   <td>
