@@ -42,8 +42,8 @@ The lab is located in the south area of campus (Building S51), about 10 min walk
 - From Wakoshi Station: ~15 min walk to RIKEN West Gate, ~25 min to the lab
 
 **By highway bus (from airports):**
-- [From Haneda Airport → Wakoshi Station (direct bus available)](https://www.seibubus.co.jp/sp/airport/line/line_shakujii_haneda.html)
-- [From Narita Airport → Wakoshi Station (direct bus available)](https://www.seibubus.co.jp/sp/airport/line/line_tokorozawa_narita.html)
+- [From Haneda Airport → Wakoshi Station (direct bus available)](https://www.limousinebus.co.jp/en/timetable/detail/Haneda-Syakujii/)
+- [From Narita Airport → Wakoshi Station (direct bus available)](https://www-seibubus-co-jp.translate.goog/sp/airport/line/line_tokorozawa_narita.html?_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=en)
 
 ## Accommodation & Dining on Campus
 
