@@ -1,4 +1,15 @@
 - year: 2026
+  date: "Nov 10–13, 2026"
+  type: Oral
+  lang: en
+  title: "Exploring Spin Qubits with Floating Electrons"
+  conference: "International Microprocess and Nanotechnology Conference (MNC 2026)"
+  presenter_html: '<span class="author"><u>Erika Kawakami</u><sup>*</sup></span>'
+  invited: true
+  venue: "Fukuoka, Japan"
+  url: https://imnc.jp/2026/symp-b/
+
+- year: 2026
   date: "May 19, 2026"
   type: Oral
   lang: en

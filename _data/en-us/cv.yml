@@ -36,6 +36,13 @@
       institution: Keio University, Japan
       year: Apr. 2005 – Sep. 2009
 
+- title: Languages
+  type: list
+  contents:
+    - "Japanese — Native"
+    - "English — Fluent"
+    - "French — Fluent (DALF C1)"
+
 - title: Awards and Honors
   type: time_table
   contents:
@@ -115,28 +122,25 @@
 - title: Committee and Advisory Activities
   type: time_table_uniform
   contents:
-    - year: 2021–present
-      items:
-        - "Member, MEXT Quantum Science and Technology Committee"
-    - year: 2026–present
-      items:
-        - "Ad hoc reviewer for research proposals, French public research funding agency"
     - year: 2025–present
       items:
         - "Editor, <em>Scientific Reports</em>"
-    - year: 2024–2025
+    - year: 2021–present
       items:
-        - "Deputy Chair, RIKEN Scientists' Assembly Steering Committee"
-    - year: 2024–present
-      items:
-        - "Ad hoc reviewer for research proposals, U.S. Department of Energy (DOE)"
-    - year: "2025"
-      items:
-        - "Ad hoc reviewer for proposals, Austrian Science Fund (FWF)"
-        - "International Advisory Committee, ULT 2025"
+        - "Member, MEXT Quantum Science and Technology Committee"
     - year: 2021–2026
       items:
         - "International Advisory Committee, International Symposium on Quantum Fluids and Solids (QFS)"
+    - year: "2026"
+      items:
+        - "Ad hoc reviewer for research proposals, French National Research Agency (ANR)"
+    - year: "2025"
+      items:
+        - "Ad hoc reviewer for proposals, Austrian Science Fund (FWF)"
+        - "International Advisory Committee, International Conference on Ultra-Low Temperature Physics (ULT 2025)"
+    - year: 2024–2025
+      items:
+        - "Ad hoc reviewer for research proposals, U.S. Department of Energy (DOE)"
     - year: "2024"
       items:
         - "Organizer, Quantum Technologies with Floating Charged Particles Workshop"

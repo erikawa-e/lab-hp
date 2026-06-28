@@ -10,7 +10,7 @@ tabs: true
 ---
 
 <p style="font-size: 0.9em; margin-bottom: 0.5em;">
-  Future dates represent scheduled events.
+  Future dates indicate scheduled events.
 </p>
 <p style="font-size: 0.9em; margin-bottom: 0.5em;">
   Japanese-language presentations are listed on the <a href="{{ '/ja/presentations/' | relative_url }}">Japanese page</a> only.

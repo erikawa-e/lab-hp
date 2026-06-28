@@ -36,6 +36,13 @@
       institution: 慶應義塾大学 理工学部
       year: 2005年4月 – 2009年9月
 
+- title: 語学
+  type: list
+  contents:
+    - "日本語（母国語）"
+    - "英語"
+    - "フランス語（DALF C1）"
+
 - title: 受賞・表彰
   type: time_table
   contents:
@@ -115,28 +122,25 @@
 - title: 学術貢献活動
   type: time_table_uniform
   contents:
-    - year: 2021年–現在
-      items:
-        - "委員, 文部科学省 量子科学技術委員会"
-    - year: 2026年–現在
-      items:
-        - "フランス公的研究機関 研究提案 審査委員"
     - year: 2025年–現在
       items:
         - "編集委員, <em>Scientific Reports</em>"
-    - year: 2024–2025年
+    - year: 2021年–現在
       items:
-        - "副代表, 研究員幹事会"
-    - year: 2024年–現在
-      items:
-        - "米国エネルギー省（DOE）研究提案 審査委員"
-    - year: "2025年"
-      items:
-        - "オーストリア科学基金（FWF）研究提案 審査委員"
-        - "国際諮問委員会, ULT 2025"
+        - "委員, 文部科学省 量子科学技術委員会"
     - year: 2021–2026年
       items:
-        - "国際諮問委員会, 国際量子液体・固体シンポジウム（QFS）"
+        - "国際諮問委員会委員, International Symposium on Quantum Fluids and Solids (QFS)"
+    - year: "2026年"
+      items:
+        - "研究提案審査委員, フランス公的研究機関 （ANR）"
+    - year: "2025年"
+      items:
+        - "研究提案審査委員, オーストリア科学基金 (FWF)"
+        - "国際諮問委員会委員, International Conference on Ultra-Low Temperature Physics (ULT 2025)"
+    - year: 2024–2025年
+      items:
+        - "研究提案審査委員, アメリカ合衆国エネルギー省 (DOE)"
     - year: "2024年"
       items:
         - "オーガナイザー, Quantum Technologies with Floating Charged Particles ワークショップ"
