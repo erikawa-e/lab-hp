@@ -19,6 +19,14 @@ strong {
   color: var(--global-text-color);
 }
 
+// mdb.min.css sets `strong { font-weight: 500 }`, which renders as non-bold
+// for Japanese fonts (they only ship 400/700). Force real bold so `**...**`
+// is visibly bold on Japanese pages too.
+b,
+strong {
+  font-weight: 700;
+}
+
 hr {
   border-top: 1px solid var(--global-divider-color);
 }

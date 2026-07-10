@@ -1,4 +1,15 @@
 - year: 2026
+  date: "Nov 30–Dec 4, 2026"
+  type: Oral
+  lang: en
+  title: "Floating Electrons as Qubits: A New Platform for Quantum Information Processing"
+  conference: "International School and Symposium on Nanodevices and quanTum Technologies (ISNTT 2026)"
+  presenter_html: '<span class="author"><u>Erika Kawakami</u><sup>*</sup></span>'
+  invited: true
+  venue: "NTT Atsugi R&D Center, Kanagawa, Japan"
+  url: "https://www.rd.ntt/brl/event/isntt2026/"
+
+- year: 2026
   date: "Nov 10–13, 2026"
   type: Oral
   lang: en
