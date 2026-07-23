@@ -21,6 +21,17 @@
   url: https://imnc.jp/2026/symp-b/
 
 - year: 2026
+  date: "Jun 12, 2026"
+  type: Oral
+  lang: en
+  title: "Coupling Electrons on Solid Neon to a Superconducting Resonator"
+  conference: "Solid State Systems for Quantum Information Processing (SQuIP) International Workshop"
+  presenter_html: '<span class="author"><u>Jun Wang</u><sup>*</sup>, <u>Yiran Tian</u>, <u>Asher Jennings</u>, <u>Ivan Grytsenko</u>, <u>Oleksiy Rybalko</u>, Xianjing Zhou, Dafei Jin, Hirotaka Terai, and <u>Erika Kawakami</u><sup>*</sup></span>'
+  invited: true
+  venue: "OIST, Okinawa, Japan"
+  url: "https://www.oist.jp/conference/squip"
+
+- year: 2026
   date: "May 19, 2026"
   type: Oral
   lang: en
