@@ -21,6 +21,28 @@
   url: https://imnc.jp/2026/symp-b/
 
 - year: 2026
+  date: "Aug 2–8, 2026"
+  type: Oral
+  lang: en
+  title: "Coupling Electrons on Solid Neon to a Superconducting Resonator"
+  conference: "International Symposium on Quantum Fluids and Solids (QFS2026)"
+  presenter_html: '<span class="author"><u>Jun Wang</u><sup>*</sup>, <u>Yiran Tian</u>, <u>Ivan Grytsenko</u>, <u>Asher Jennings</u>, Xianjing Zhou, Hirotaka Terai, Dafei Jin, M. Benito, and <u>Erika Kawakami</u><sup>*</sup></span>'
+  reviewed: true
+  venue: "University of Notre Dame, Indiana, USA"
+  url: "https://www.qfs2026.org/"
+
+- year: 2026
+  date: "Aug 2–8, 2026"
+  type: Poster
+  lang: en
+  title: "Electrons on Solid Neon Coupled to Superconducting Qubit: Research Plan and Progress"
+  conference: "International Symposium on Quantum Fluids and Solids (QFS2026)"
+  presenter_html: '<span class="author"><u>Takuma Hirahara</u>, <u>Ivan Grytsenko</u>, <u>Hochan Chung</u>, <u>Oleksiy Rybalko</u>, <u>Asher Jennings</u>, <u>Jun Wang</u>, <u>Yiran Tian</u>, <u>Erika Kawakami</u><sup>*</sup>, and Fumiki Yoshihara<sup>*</sup></span>'
+  reviewed: true
+  venue: "University of Notre Dame, Indiana, USA"
+  url: "https://www.qfs2026.org/"
+
+- year: 2026
   date: "Jun 12, 2026"
   type: Oral
   lang: en
