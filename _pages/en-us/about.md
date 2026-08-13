@@ -35,3 +35,5 @@ Our research focuses on electrons floating above liquid helium and solid neon as
 We are recruiting **postdocs** and **interns** (3+ months). Please contact [Erika Kawakami](mailto:erika.kawakami@riken.jp) for details.
 
 ## Upcoming
+
+* **August 24, 2026 (Mon)** — We are co-hosting [International Workshop on Quantum Dot Technology (InQuot2026)](https://sites.google.com/view/masquot-en/workshops) with masQuot/InGeQT @ RIKEN Wako Campus.

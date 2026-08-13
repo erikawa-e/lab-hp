@@ -39,3 +39,5 @@ latest_posts:
 **ポスドク・インターン（3ヶ月以上）** を募集中です。[川上恵里加](mailto:erika.kawakami@riken.jp)までご連絡ください。
 
 ## お知らせ
+
+- **2026年8月24日（月）** — 理研和光キャンパスにて[第1回 日英大規模量子デバイス国際ワークショップ（InQuot2026）](https://sites.google.com/view/masquot-jp/%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97)を共催します（主催：masQuot／InGeQT）。
