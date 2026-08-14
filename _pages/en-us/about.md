@@ -36,4 +36,4 @@ We are recruiting **postdocs** and **interns** (3+ months). Please contact [Erik
 
 ## Upcoming
 
-* **August 24, 2026 (Mon)** — We are co-hosting [International Workshop on Quantum Dot Technology (InQuot2026)](https://sites.google.com/view/masquot-en/workshops) with masQuot/InGeQT @ RIKEN Wako Campus.
+* **August 24, 2026 (Mon)** — We are co-hosting [International Workshop on Quantum Dot Technology (InQuot2026)](https://sites.google.com/view/masquot-en/workshops/inquot2026) with masQuot/InGeQT @ RIKEN Wako Campus.
