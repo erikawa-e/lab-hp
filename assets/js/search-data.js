@@ -94,7 +94,7 @@ ninja.data = [{
         
           title: "InQuot2026 workshop held at RIKEN Wako Campus",
         
-        description: "International Workshop on Quantum Dot Technology (InQuot2026), co-hosted with masQuot/InGeQT",
+        description: "International Workshop on Quantum Dot Technology (InQuot2026), organized by masQuot/InGeQT",
         section: "Posts",
         handler: () => {
           

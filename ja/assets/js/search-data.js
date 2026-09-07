@@ -94,7 +94,7 @@ ninja.data = [{
         
           title: "理研和光キャンパスにてInQuot2026を開催しました",
         
-        description: "国際ワークショップ InQuot2026（masQuot/InGeQT共催）",
+        description: "国際ワークショップ InQuot2026（masQuot/InGeQT主催）",
         section: "Posts",
         handler: () => {
           
