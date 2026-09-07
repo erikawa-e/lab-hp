@@ -10,6 +10,6 @@ thumbnail: assets/img/inquot2026_award.jpg
 
 We co-hosted the [International Workshop on Quantum Dot Technology (InQuot2026)](https://sites.google.com/view/masquot-en/workshops/inquot2026), held under the ASPIRE UK program, with masQuot/InGeQT at RIKEN Wako Campus. Thank you to all the speakers and participants for making it such a great event!
 
-From our group, Yiran Tian received the InQuot2026 Best Presenter Award and Ivan Grytsenko received the masQuot 2026 Outstanding Presenter Award — congratulations to both! The awards were presented by Prof. Tetsuo Kodera, the Japan-side PI of ASPIRE UK.
+From our group, Yiran Tian received the InQuot2026 Best Presenter Award and Ivan Grytsenko received the masQuot 2026 Outstanding Presenter Award — congratulations to both! The awards were presented by Prof. Tetsuo Kodera (Institute of Science Tokyo), the Japan-side PI of ASPIRE UK.
 
 {% include figure.liquid path="assets/img/inquot2026_award.jpg" class="img-fluid rounded z-depth-1" %}
