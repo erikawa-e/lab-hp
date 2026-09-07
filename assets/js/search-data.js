@@ -90,7 +90,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/lab-hp/access/";
           },
-        },{id: "post-neon-charge-qubit-paper-posted-on-arxiv",
+        },{id: "post-inquot2026-workshop-held-at-riken-wako-campus",
+        
+          title: "InQuot2026 workshop held at RIKEN Wako Campus",
+        
+        description: "International Workshop on Quantum Dot Technology (InQuot2026), co-hosted with masQuot/InGeQT",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/lab-hp/blog/2026/inquot2026-workshop/";
+          
+        },
+      },{id: "post-neon-charge-qubit-paper-posted-on-arxiv",
         
           title: "Neon charge qubit paper posted on arXiv",
         

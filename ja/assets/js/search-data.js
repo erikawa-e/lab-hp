@@ -90,7 +90,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/lab-hp/ja/access/";
           },
-        },{id: "post-ネオン上の電子の電荷量子ビット論文をarxivに公開",
+        },{id: "post-理研和光キャンパスにてinquot2026を開催しました",
+        
+          title: "理研和光キャンパスにてInQuot2026を開催しました",
+        
+        description: "国際ワークショップ InQuot2026（masQuot/InGeQT共催）",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/lab-hp/ja/blog/2026/inquot2026-workshop/";
+          
+        },
+      },{id: "post-ネオン上の電子の電荷量子ビット論文をarxivに公開",
         
           title: "ネオン上の電子の電荷量子ビット論文をarXivに公開",
         
