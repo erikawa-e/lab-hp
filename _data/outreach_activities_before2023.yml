@@ -33,6 +33,13 @@
 
 - date: "2022年9月"
   presenter_html: '<span class="author"><em>川上恵里加</em></span>'
+  title: 'イベント「女性科学技術者と話そう」企画・講演（女子大学生向け研究紹介）'
+  venue: "理化学研究所 量子コンピュータ研究センター"
+  format: lecture
+  lang: ja
+
+- date: "2022年9月"
+  presenter_html: '<span class="author"><em>川上恵里加</em></span>'
   title: "量子系をシミュレートしよう (Python-QuTiP)"
   venue: "QEd 2022 サマースクール"
   format: school
