@@ -90,11 +90,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/lab-hp/access/";
           },
-        },{id: "post-plasmon-paper-published-in-nature-communications",
+        },{id: "post-strong-coupling-between-collective-electron-oscillations-and-photons-in-vacuum",
         
-          title: "Plasmon paper published in Nature Communications",
+          title: "Strong coupling between collective electron oscillations and photons in vacuum",
         
-        description: "Strong coupling between RF photons and plasmons of electrons on liquid helium, published in Nature Communications",
+        description: "A foundation for electron-photon hybrid systems toward quantum information technology",
         section: "Posts",
         handler: () => {
           

@@ -90,11 +90,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/lab-hp/ja/access/";
           },
-        },{id: "post-プラズモンの論文がnature-communicationsに掲載されました",
+        },{id: "post-真空中の電子の集団振動と光子の強い結合",
         
-          title: "プラズモンの論文がNature Communicationsに掲載されました",
+          title: "真空中の電子の集団振動と光子の強い結合",
         
-        description: "真空中の電子の集団振動と光子の強い結合をNature Communicationsに発表",
+        description: "－量子情報技術に向けた電子・光子ハイブリッド系の基盤－",
         section: "Posts",
         handler: () => {
           
