@@ -12,7 +12,7 @@ A foundation for electron-photon hybrid systems toward quantum information techn
 
 ## Summary
 
-An international research group — including Special Postdoctoral Researcher Asher Jennings and Hakubi Team Leader Erika Kawakami of the Floating-Electron-Based Quantum Information RIKEN Hakubi Research Team at the RIKEN Center for Quantum Computing, and Professor Hiroki Ikegami of the Institute of Physics, Chinese Academy of Sciences — has realized a strong-coupling regime linking the collective oscillation ("plasmon"[1]) of electrons floating in vacuum above the surface of liquid helium with a radio-frequency photon confined in a compact electrical (LC) circuit, at a coupling strength exceeding the rate at which each system loses energy.
+We have realized a strong-coupling regime linking the collective oscillation ("plasmon"[1]) of electrons floating in vacuum above the surface of liquid helium with a radio-frequency photon confined in a compact electrical (LC) circuit, at a coupling strength exceeding the rate at which each system loses energy.
 
 This achievement is expected to contribute to the foundational technology needed for quantum information processing using electrons floating in vacuum, as well as for highly sensitive sensing techniques that exploit plasmons and light.
 
@@ -83,6 +83,6 @@ A state in which, once the Coulomb repulsion energy between electrons exceeds th
 **[3] Ripplon**
 The quantum mechanical description of ripples (surface-tension waves) on the surface of liquid helium. Electrons floating on liquid helium interact with ripplons, which disturb the electrons' motion and cause the plasmon to decay.
 
-## Funding
+## Acknowledgments
 
-This work was supported by the RIKEN Hakubi Program, the RIKEN Center for Quantum Computing, JST-FOREST (Grant Number JPMJFR2039, PI: Erika Kawakami), the Hattori Hokokai Foundation, the National Natural Science Foundation of China (Grant No. 12474135), and the National Key R&D Program of China (Grant No. 2025YFA1411400). We are grateful to Prof. Jaw-Shen Tsai for granting us access to the Kelvinox 400HA dilution refrigerator, and to Prof. Denis Konstantinov for useful discussions. Asher Jennings was supported by a RIKEN Incentive Research Project.
+This work was supported by the RIKEN Hakubi Program, the RIKEN Center for Quantum Computing, JST-FOREST, and the Hattori Hokokai Foundation. We are grateful to Prof. Jaw-Shen Tsai for granting us access to the Kelvinox 400HA dilution refrigerator, and to Prof. Denis Konstantinov for useful discussions. Asher Jennings was supported by a RIKEN Incentive Research Project.
