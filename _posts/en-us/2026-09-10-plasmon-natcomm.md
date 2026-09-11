@@ -12,11 +12,11 @@ A foundation for electron-photon hybrid systems toward quantum information techn
 
 ## Summary
 
-We have realized a strong-coupling regime linking the collective oscillation ("plasmon"[1]) of electrons floating in vacuum above the surface of liquid helium with a radio-frequency photon confined in a compact electrical (LC) circuit, at a coupling strength exceeding the rate at which each system loses energy.
+We have realized a strong-coupling regime linking the collective oscillation ("plasmon"[1]) of electrons floating in vacuum above the surface of liquid helium with a radio-frequency photon confined in an electrical (LC) circuit, at a coupling strength exceeding the rate at which each system loses energy.
 
 This achievement is expected to contribute to the foundational technology needed for quantum information processing using electrons floating in vacuum, as well as for highly sensitive sensing techniques that exploit plasmons and light.
 
-The international research group fabricated a device that integrates a two-dimensional electron system — floating in vacuum roughly 10 nanometers above the surface of liquid helium — with a compact LC resonator circuit made of a ring-shaped electrode and a microfabricated coil.
+The international research group fabricated a device that integrates a two-dimensional electron system — floating in vacuum roughly 10 nanometers above the surface of liquid helium — with an LC resonator circuit made of a ring-shaped electrode and a microfabricated coil.
 
 By adjusting the voltage applied to the electrodes, the frequency of the electrons' collective oscillation (plasmon) can be tuned; when it is brought into resonance with the LC circuit's resonant frequency, the reflected microwave spectrum splits into two peaks — an "avoided crossing" — confirming that the two systems are coupled. The resulting coupling strength (coupling constant) was about 4.9 MHz, exceeding the rate at which both the plasmon and the circuit lose energy, satisfying the condition for "strong coupling." Furthermore, injecting a short, 20-nanosecond microwave pulse and tracking the circuit's energy afterward revealed energy oscillating back and forth between the plasmon and the photon as it decayed. Using this LC circuit as a sensitive sensor, the team also precisely captured the transition to a "Wigner crystal[2]," in which electrons arrange into a regular lattice at low temperature, and the plasmon decay caused by interaction with "ripplons[3]," ripples on the liquid helium surface.
 
@@ -78,7 +78,7 @@ Asher Jennings\*, Ivan Grytsenko, Thomas Giovansili, Itay Josef Barabash, Oleksi
 A collective oscillation in which many electrons in a metal, semiconductor, or similar material move back and forth together in the same direction. It interacts strongly with radio waves and light. In electron systems on liquid helium, it appears as a wave of electron-density modulation arising from Coulomb repulsion between electrons.
 
 **[2] Wigner crystal**
-A state in which, once the Coulomb repulsion energy between electrons exceeds their thermal energy, the electrons arrange into a regular triangular lattice and behave like a solid. It was theoretically predicted by the physicist Eugene Wigner. In electron systems on liquid helium, it is observed below about 1 kelvin.
+A state in which, once the Coulomb repulsion energy between electrons exceeds their thermal energy, the electrons arrange into a regular triangular lattice and behave like a solid. It was theoretically predicted by the physicist Eugene Wigner.
 
 **[3] Ripplon**
 The quantum mechanical description of ripples (surface-tension waves) on the surface of liquid helium. Electrons floating on liquid helium interact with ripplons, which disturb the electrons' motion and cause the plasmon to decay.
