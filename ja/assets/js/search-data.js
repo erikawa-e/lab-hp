@@ -90,7 +90,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/lab-hp/ja/access/";
           },
-        },{id: "post-理研和光キャンパスにてinquot2026を開催しました",
+        },{id: "post-プラズモンの論文がnature-communicationsに掲載されました",
+        
+          title: "プラズモンの論文がNature Communicationsに掲載されました",
+        
+        description: "真空中の電子の集団振動と光子の強い結合をNature Communicationsに発表",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/lab-hp/ja/blog/2026/plasmon-natcomm/";
+          
+        },
+      },{id: "post-理研和光キャンパスにてinquot2026を開催しました",
         
           title: "理研和光キャンパスにてInQuot2026を開催しました",
         

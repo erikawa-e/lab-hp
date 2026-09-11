@@ -90,7 +90,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/lab-hp/access/";
           },
-        },{id: "post-inquot2026-workshop-held-at-riken-wako-campus",
+        },{id: "post-plasmon-paper-published-in-nature-communications",
+        
+          title: "Plasmon paper published in Nature Communications",
+        
+        description: "Strong coupling between RF photons and plasmons of electrons on liquid helium, published in Nature Communications",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/lab-hp/blog/2026/plasmon-natcomm/";
+          
+        },
+      },{id: "post-inquot2026-workshop-held-at-riken-wako-campus",
         
           title: "InQuot2026 workshop held at RIKEN Wako Campus",
         
