@@ -5,7 +5,7 @@ date: 2026-09-10 00:00:00+0900
 description: －量子情報技術に向けた電子・光子ハイブリッド系の基盤－
 tags: publication
 categories: news
-thumbnail: assets/img/plasmon_natcomm_device.png
+thumbnail: assets/img/plasmon_mode_shape.png
 ---
 
 －量子情報技術に向けた電子・光子ハイブリッド系の基盤－

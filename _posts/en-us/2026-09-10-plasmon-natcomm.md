@@ -5,7 +5,7 @@ date: 2026-09-10 00:00:00+0900
 description: A foundation for electron-photon hybrid systems toward quantum information technology
 tags: publication
 categories: news
-thumbnail: assets/img/plasmon_natcomm_device.png
+thumbnail: assets/img/plasmon_mode_shape.png
 ---
 
 A foundation for electron-photon hybrid systems toward quantum information technology
