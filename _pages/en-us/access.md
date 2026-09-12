@@ -23,7 +23,7 @@ Office: N508-1, Labs: N105-2, N108-1<br>
 
 ## Visiting
 
-Please report to the **West Gate** with your entry number (provided in advance by your host).
+Please report to the **West Gate** with your QR code (provided in advance by your host).
 The lab is located in the south area of campus (Building S51), about 10 min walk from the West Gate.
 
 <div style="display:flex; gap:1.5rem; align-items:flex-start; flex-wrap:wrap; margin-top:1rem;">

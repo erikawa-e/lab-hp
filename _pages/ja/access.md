@@ -23,7 +23,7 @@ nav_order: 10
 
 ## 来訪の際
 
-来訪時は事前にホストから受け取った**入構番号**を持参の上、**西門**で手続きをしてください。
+来訪時は事前にホストから受け取った**QRコード**を持参の上、**西門**で手続きをしてください。
 研究室はキャンパス南エリア（S51棟）にあり、西門から徒歩約10分です。
 
 <div style="display:flex; gap:1.5rem; align-items:flex-start; flex-wrap:wrap; margin-top:1rem;">
