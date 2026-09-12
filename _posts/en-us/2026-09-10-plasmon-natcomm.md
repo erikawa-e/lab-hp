@@ -62,7 +62,7 @@ This work is a first step toward realizing, in an exceptionally clean system wit
 
 Because a plasmon acts electrically like a large "antenna," it is expected to serve as a "quantum information bus" linking qubits based on the spin or motional states of single electrons via photons. If a plasmon confined in the circuit is sent out as a wave (a plasmon wave packet) traveling along the electron layer, it could also carry quantum information to another, distant qubit.
 
-In the future, confining the plasmon to a smaller region to raise its oscillation frequency into the gigahertz range would allow it to operate in the same frequency band as superconducting quantum circuits, enabling information exchange with a single microwave photon at the quantum mechanical level.
+In the future, confining the plasmon to a smaller region to raise its oscillation frequency into the gigahertz range (roughly one billion oscillations per second) would allow it to operate in the same frequency band as superconducting quantum circuits, enabling information exchange with a single microwave photon at the quantum mechanical level.
 
 Furthermore, "parametric driving" — periodically modulating the electron confinement — is expected to enable devices that amplify weak signals or generate states with suppressed quantum noise. This achievement is expected to become a foundational technology toward realizing a quantum computer based on electrons floating on liquid helium.
 
