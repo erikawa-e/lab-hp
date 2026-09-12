@@ -18,7 +18,7 @@ This achievement is expected to contribute to the foundational technology needed
 
 We fabricated a device that integrates a two-dimensional electron system — floating in vacuum roughly 10 nanometers above the surface of liquid helium — with an LC resonator circuit made of a ring-shaped electrode and a microfabricated coil.
 
-By adjusting the voltage applied to the electrodes, the frequency of the electrons' collective oscillation (plasmon) can be tuned; when it is brought into resonance with the LC circuit's resonant frequency, the reflected microwave spectrum splits into two peaks — an "avoided crossing" — confirming that the two systems are coupled. The resulting coupling strength (coupling constant) was about 4.9 MHz, exceeding the rate at which both the plasmon and the circuit lose energy, satisfying the condition for "strong coupling." Furthermore, injecting a short, 20-nanosecond microwave pulse and tracking the circuit's energy afterward revealed energy oscillating back and forth between the plasmon and the photon as it decayed. Using this LC circuit as a sensitive sensor, the team also precisely captured the transition to a "Wigner crystal[2]," in which electrons arrange into a regular lattice at low temperature, and the plasmon decay caused by interaction with "ripplons[3]," ripples on the liquid helium surface.
+By adjusting the voltage applied to the electrodes, the frequency of the electrons' collective oscillation (plasmon) can be tuned; when it is brought into resonance with the LC circuit's resonant frequency, the reflected microwave spectrum splits into two peaks — an "avoided crossing" — confirming that the two systems are coupled. The resulting coupling strength (coupling constant) was about 4.9 MHz (1 MHz is one million hertz), exceeding the rate at which both the plasmon and the circuit lose energy, satisfying the condition for "strong coupling." Furthermore, injecting a short, 20-nanosecond microwave pulse and tracking the circuit's energy afterward revealed energy oscillating back and forth between the plasmon and the photon as it decayed. Using this LC circuit as a sensitive sensor, the team also precisely captured the transition to a "Wigner crystal[2]," in which electrons arrange into a regular lattice at low temperature, and the plasmon decay caused by interaction with "ripplons[3]," ripples on the liquid helium surface.
 
 This work was published online in the journal *Nature Communications* on September 10.
 
@@ -33,13 +33,13 @@ However, in ordinary metals and semiconductors, electrons are scattered by impur
 
 A layer of electrons floating in vacuum can instead be created above the surface of liquid helium. Because this electron system is free of both impurities and lattice disorder, electron scattering is extremely low, making it one of the cleanest two-dimensional electron systems known.
 
-Plasmons of electrons on liquid helium have been studied since the 1970s through microwave absorption measurements, but their quantum mechanical properties, and coupling them coherently to a photon in an electrical circuit, had hardly been explored.
+Plasmons of electrons on liquid helium have been studied since the 1970s through microwave absorption measurements, but their quantum mechanical properties, and coupling them coherently to a photon in an electrical circuit, had not been explored.
 
 We therefore reasoned that strongly coupling the plasmon of this exceptionally clean electron system to a photon confined in an electrical circuit could realize a new "electron-photon hybrid system" as a foundation for quantum information technology, while also serving as a highly sensitive sensor for probing the physics of electrons on liquid helium.
 
 ## Methods and results
 
-The international research group fabricated a device in which liquid helium about 1 millimeter thick is sandwiched between two disk-shaped electrodes, with electrons floating in vacuum roughly 10 nanometers above its surface (Figure 1).
+We fabricated a device in which liquid helium about 1 millimeter thick is sandwiched between two disk-shaped electrodes, with electrons floating in vacuum roughly 10 nanometers above its surface (Figure 1).
 
 The lower electrode is divided into three concentric regions — center, middle, and outer — so that adjusting the voltage on each controls the area over which electrons accumulate, their density, and the frequency of their collective oscillation (plasmon). A small, microfabricated coil is connected to the upper center electrode; together, the electrode and coil form an LC resonator circuit with a resonant frequency of about 121 MHz.
 
@@ -54,7 +54,7 @@ This LC resonator circuit also functions as a highly sensitive sensor of the ele
 {% include figure.liquid path="assets/img/plasmon_natcomm_device.png" class="img-fluid rounded z-depth-1" %}
 <p style="text-align:center; font-size:0.9em; color:#888;">Figure 1: Strong coupling between the plasmon of electrons on liquid helium and a resonator-circuit photon.<br>Liquid helium (light blue cylinder) is held between upper and lower disk electrodes, with electrons (light blue circles) floating in vacuum roughly 10 nanometers above its surface. A coil connected to the upper center electrode forms an LC resonator circuit together with the electrode, confining a roughly 121 MHz radio-frequency photon. When the voltage on the electrodes tunes the frequency of the electrons' collective oscillation (plasmon) to match the circuit's resonant frequency, a strong-coupling state arises in which the plasmon and photon periodically exchange energy. This circuit also serves as a sensitive sensor for measuring the transition to a Wigner crystal and the decay of the plasmon.</p>
 
-The measurements were carried out in a dilution refrigerator (a device for producing extremely low temperatures), cooled to about 0.18 kelvin. The areal density of the electrons was about 100 million per square centimeter. The rate at which energy escapes the LC circuit (the decay rate) was as slow as one part in 400,000 per second, and this low loss is what makes the strong coupling possible.
+The measurements were carried out in a dilution refrigerator (a device for producing extremely low temperatures), cooled to about 0.18 kelvin. The areal density of the electrons was about 100 million per square centimeter. The rate at which energy escapes the LC circuit is slow, and this low loss is what makes the strong coupling possible.
 
 ## Outlook
 
