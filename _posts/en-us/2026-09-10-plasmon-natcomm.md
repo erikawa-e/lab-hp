@@ -54,7 +54,7 @@ This LC resonator circuit also functions as a highly sensitive sensor of the ele
 {% include figure.liquid path="assets/img/plasmon_natcomm_device.png" class="img-fluid rounded z-depth-1" %}
 <p style="text-align:center; font-size:0.9em; color:#888;">Figure 1: Strong coupling between the plasmon of electrons on liquid helium and a resonator-circuit photon.<br>Liquid helium (light blue cylinder) is held between upper and lower disk electrodes, with electrons (light blue circles) floating in vacuum roughly 10 nanometers above its surface. A coil connected to the upper center electrode forms an LC resonator circuit together with the electrode, confining a roughly 121 MHz radio-frequency photon. When the voltage on the electrodes tunes the frequency of the electrons' collective oscillation (plasmon) to match the circuit's resonant frequency, a strong-coupling state arises in which the plasmon and photon periodically exchange energy. This circuit also serves as a sensitive sensor for measuring the transition to a Wigner crystal and the decay of the plasmon.</p>
 
-The measurements were carried out in a dilution refrigerator (a device for producing extremely low temperatures), cooled to about 0.18 kelvin. The areal density of the electrons was about 100 million per square centimeter. The rate at which energy escapes the LC circuit is slow, and this low loss is what makes the strong coupling possible.
+The measurements were carried out in a dilution refrigerator (a device for producing extremely low temperatures), cooled to about 0.18 kelvin. The areal density of the electrons was about 100 million per square centimeter.
 
 ## Outlook
 
