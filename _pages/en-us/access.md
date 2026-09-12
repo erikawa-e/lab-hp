@@ -45,13 +45,14 @@ The lab is located in the south area of campus (Building S51), about 10 min walk
 - [From Haneda Airport → Wakoshi Station (direct bus available)](https://www.limousinebus.co.jp/en/timetable/detail/Haneda-Syakujii/)
 - [From Narita Airport → Wakoshi Station (direct bus available)](https://www-seibubus-co-jp.translate.goog/sp/airport/line/line_tokorozawa_narita.html?_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=en)
 
-## Accommodation & Dining on Campus
+## Accommodation & Dining
 
 - **Visitor lodging:** Buildings E12 & E91 (east area) — contact your host to arrange
 - **Canteen:** Building C61 (lunch and dinner on weekdays)
 - **Convenience store:** Building C72
 - Restaurants also available near Wakoshi Station
 - [Gusto](https://www.google.com/maps/place/%E3%82%AC%E3%82%B9%E3%83%88+%E5%92%8C%E5%85%89%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E5%BA%97/@35.7829056,139.591741,15z/data=!3m1!4b1!4m6!3m5!1s0x6018ebe2121d09a5:0xedb2b9eeca16ef16!8m2!3d35.782907!4d139.610195!16s%2Fg%2F1vg_cx20?entry=tts) (family restaurant) is also available nearby
+- [Food near RIKEN](https://maps.app.goo.gl/pw6zZniybmbWrAy1A) (created by Ash)
 
 
 ## Contact

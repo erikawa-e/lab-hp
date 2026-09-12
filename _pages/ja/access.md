@@ -52,6 +52,7 @@ nav_order: 10
 - **コンビニ：** C72棟
 - 和光市駅周辺にも飲食店あり
 - [ガスト 和光インター店](https://www.google.com/maps/place/%E3%82%AC%E3%82%B9%E3%83%88+%E5%92%8C%E5%85%89%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E5%BA%97/@35.7829056,139.591741,15z/data=!3m1!4b1!4m6!3m5!1s0x6018ebe2121d09a5:0xedb2b9eeca16ef16!8m2!3d35.782907!4d139.610195!16s%2Fg%2F1vg_cx20?entry=tts)（ファミリーレストラン）も近くにあり
+- [Food near RIKEN](https://maps.app.goo.gl/pw6zZniybmbWrAy1A)（Ash作成）
 
 ## お問い合わせ
 
