@@ -10,6 +10,8 @@ thumbnail: assets/img/plasmon_mode_shape.png
 
 A foundation for electron-photon hybrid systems toward quantum information technology
 
+*Note: This post explains our research in plain language for a general audience.*
+
 ## Summary
 
 We have realized a strong-coupling regime linking the collective oscillation ("plasmon"[1]) of electrons floating in vacuum above the surface of liquid helium with a radio-frequency photon confined in an electrical (LC) circuit, at a coupling strength exceeding the rate at which each system loses energy.
