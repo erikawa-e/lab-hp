@@ -1,6 +1,7 @@
 - year: 2026
   date: "Sep 2026"
   date_ja: "2026年9月"
+  sort_date: "2026-09-01"
   presenter_html: '<span class="author"><em>川上恵里加</em></span>'
   presenter_en_html: '<span class="author"><em>Erika Kawakami</em></span>'
   title: 浮揚電子に関する講義
@@ -9,20 +10,10 @@
   format: school
   lang: ja
 
-- year: 2025
-  date: "Oct 2025"
-  date_ja: "2025年10月"
-  presenter_html: '<span class="author"><em>川上恵里加</em></span>'
-  presenter_en_html: '<span class="author"><em>Erika Kawakami</em></span>'
-  title: オンライン進路相談会 相談員（女子学部生向け進路相談）
-  venue: 理化学研究所 ダイバーシティ推進課　和光一般公開
-  venue_en: "RIKEN Diversity Promotion Office, Wako Open Campus"
-  format: seminar
-  lang: ja
-
 - year: 2026
   date: "Jan 14, 2026"
   date_ja: "2026年1月14日"
+  sort_date: "2026-01-14"
   presenter_html: '<span class="author"><u>Asher Jennings</u>, <u>Erika Kawakami</u></span>'
   presenter_en_html: '<span class="author"><u>Asher Jennings</u>, <u>Erika Kawakami</u></span>'
   title: "Reading Qubits in an Ultraclean Environment"
@@ -31,21 +22,22 @@
   lang: en
   url: https://www.riken.jp/en/news_pubs/research_news/rr/20260114_1/index.html
 
-
-- year: 2024
-  date: "Mar 28, 2024"
-  date_ja: "2024年3月28日"
-  presenter_html: '<span class="author"><u>Erika Kawakami</u></span>'
-  presenter_en_html: '<span class="author"><u>Erika Kawakami</u></span>'
-  title: "Realizing Clean Qubits for Quantum Computers Using Electrons on Helium"
-  venue: RIKEN Research
-  format: web article
-  lang: en
-  url: https://www.riken.jp/en/news_pubs/research_news/rr/20240328_2/index.html
+- year: 2025
+  date: "Oct 2025"
+  date_ja: "2025年10月"
+  sort_date: "2025-10-01"
+  presenter_html: '<span class="author"><em>川上恵里加</em></span>'
+  presenter_en_html: '<span class="author"><em>Erika Kawakami</em></span>'
+  title: オンライン進路相談会 相談員（女子学部生向け進路相談）
+  venue: 理化学研究所 ダイバーシティ推進課　和光一般公開
+  venue_en: "RIKEN Diversity Promotion Office, Wako Open Campus"
+  format: seminar
+  lang: ja
 
 - year: 2025
   date: "Mar 2025"
   date_ja: "2025年3月"
+  sort_date: "2025-03-01"
   presenter_html: '<span class="author"><em>川上恵里加</em></span>'
   presenter_en_html: '<span class="author"><em>Erika Kawakami</em></span>'
   title: 量子ドット
@@ -58,6 +50,7 @@
 - year: 2024
   date: "Jun 30, 2024"
   date_ja: "2024年6月30日"
+  sort_date: "2024-06-30"
   presenter_html: '<span class="author"><em>川上恵里加</em></span>'
   presenter_en_html: '<span class="author"><em>Erika Kawakami</em></span>'
   title: 不思議な量子の世界：浮いている電子で作るコンピュータ
@@ -70,6 +63,7 @@
 - year: 2024
   date: "May 25, 2024"
   date_ja: "2024年5月25日"
+  sort_date: "2024-05-25"
   presenter_html: '<span class="author"><em>川上恵里加</em></span>'
   presenter_en_html: '<span class="author"><em>Erika Kawakami</em></span>'
   title: 浮いている電子
@@ -78,9 +72,22 @@
   format: seminar
   lang: ja
 
+- year: 2024
+  date: "Mar 28, 2024"
+  date_ja: "2024年3月28日"
+  sort_date: "2024-03-28"
+  presenter_html: '<span class="author"><u>Erika Kawakami</u></span>'
+  presenter_en_html: '<span class="author"><u>Erika Kawakami</u></span>'
+  title: "Realizing Clean Qubits for Quantum Computers Using Electrons on Helium"
+  venue: RIKEN Research
+  format: web article
+  lang: en
+  url: https://www.riken.jp/en/news_pubs/research_news/rr/20240328_2/index.html
+
 - year: 2023
   date: "Dec 1 & 8, 2023"
   date_ja: "2023年12月1・8日"
+  sort_date: "2023-12-08"
   presenter_html: '<span class="author"><em>川上恵里加</em></span>'
   presenter_en_html: '<span class="author"><em>Erika Kawakami</em></span>'
   title: 量子コンピューター入門
@@ -92,6 +99,7 @@
 - year: 2023
   date: "Nov 2023"
   date_ja: "2023年11月"
+  sort_date: "2023-11-01"
   presenter_html: '<span class="author"><em>Asher Jennings</em></span>'
   title: Floating Electrons as Qubits
   venue: "EeroQ, Chicago"
@@ -100,6 +108,7 @@
 - year: 2023
   date: "Aug 2023"
   date_ja: "2023年8月"
+  sort_date: "2023-08-15"
   presenter_html: '<span class="author"><em>Asher Jennings</em></span>'
   title: Floating Electrons as Qubits
   venue: "Quantum Motion, London"
@@ -108,6 +117,7 @@
 - year: 2023
   date: "Aug 2023"
   date_ja: "2023年8月"
+  sort_date: "2023-08-01"
   presenter_html: '<span class="author"><em>Asher Jennings</em></span>'
   title: Floating Electrons as Qubits
   venue: Lancaster University
@@ -116,6 +126,7 @@
 - year: 2023
   date: "Jun 16, 2023"
   date_ja: "2023年6月16日"
+  sort_date: "2023-06-16"
   presenter_html: '<span class="author"><em>川上恵里加</em></span>'
   presenter_en_html: '<span class="author"><em>Erika Kawakami</em></span>'
   title: みんなどうしてる？国際ネットワーキングのホントの活かし方

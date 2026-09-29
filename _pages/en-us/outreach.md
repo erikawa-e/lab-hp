@@ -55,7 +55,8 @@ tabs: true
   <u>Underline</u>: FEBQI lab member
 </p>
 <table class="table table-sm" style="font-size: 0.9em;">
-{% for act in site.data.outreach_activities %}
+{% assign sorted_outreach_recent = site.data.outreach_activities | sort: 'sort_date' | reverse %}
+{% for act in sorted_outreach_recent %}
   {% if act.lang == "ja" %}{% continue %}{% endif %}
 <tr>
   <td style="white-space: nowrap; padding-right: 1em; color: #888;">{{ act.date }}</td>
@@ -70,7 +71,8 @@ tabs: true
   </td>
 </tr>
 {% endfor %}
-{% for act in site.data.outreach_activities_before2023 %}
+{% assign sorted_outreach_old = site.data.outreach_activities_before2023 | sort: 'sort_date' | reverse %}
+{% for act in sorted_outreach_old %}
   {% if act.lang == "ja" %}{% continue %}{% endif %}
 <tr>
   <td style="white-space: nowrap; padding-right: 1em; color: #888;">{{ act.date }}</td>
