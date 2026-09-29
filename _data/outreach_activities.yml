@@ -1,4 +1,26 @@
 - year: 2026
+  date: "Sep 2026"
+  date_ja: "2026年9月"
+  presenter_html: '<span class="author"><em>川上恵里加</em></span>'
+  presenter_en_html: '<span class="author"><em>Erika Kawakami</em></span>'
+  title: 浮揚電子に関する講義
+  venue: QuSS（量子サイエンススクール in 淡路島）
+  venue_en: "QuSS (Quantum Science School in Awaji Island)"
+  format: school
+  lang: ja
+
+- year: 2025
+  date: "Oct 2025"
+  date_ja: "2025年10月"
+  presenter_html: '<span class="author"><em>川上恵里加</em></span>'
+  presenter_en_html: '<span class="author"><em>Erika Kawakami</em></span>'
+  title: オンライン進路相談会 相談員（女子学部生向け進路相談）
+  venue: 理化学研究所 ダイバーシティ推進課　和光一般公開
+  venue_en: "RIKEN Diversity Promotion Office, Wako Open Campus"
+  format: seminar
+  lang: ja
+
+- year: 2026
   date: "Jan 14, 2026"
   date_ja: "2026年1月14日"
   presenter_html: '<span class="author"><u>Asher Jennings</u>, <u>Erika Kawakami</u></span>'

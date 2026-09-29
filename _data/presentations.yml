@@ -21,6 +21,16 @@
   url: https://imnc.jp/2026/symp-b/
 
 - year: 2026
+  date: "Oct 2026"
+  type: Oral
+  lang: en
+  title: "Electrons on Solid Neon for Quantum Information: From Charge Qubits to Spin Detection"
+  conference: "3rd Annual International Workshop on Quantum, Cryogenic & Superconductive Computing (QUEST 2026)"
+  presenter_html: '<span class="author"><u>Erika Kawakami</u><sup>*</sup></span>'
+  invited: true
+  venue: "Niigata, Japan"
+
+- year: 2026
   date: "Aug 2–8, 2026"
   type: Oral
   lang: en
