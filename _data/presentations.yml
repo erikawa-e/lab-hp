@@ -29,6 +29,7 @@
   presenter_html: '<span class="author"><u>Erika Kawakami</u><sup>*</sup></span>'
   invited: true
   venue: "Niigata, Japan"
+  url: https://www.questconf.com/
 
 - year: 2026
   date: "Aug 2–8, 2026"
