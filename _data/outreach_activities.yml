@@ -5,7 +5,7 @@
   presenter_html: '<span class="author"><em>川上恵里加</em></span>'
   presenter_en_html: '<span class="author"><em>Erika Kawakami</em></span>'
   title: 液体ヘリウムや固体ネオンの「浮揚電子」用い量子コンピューターの高性能量子ビットを研究
-  venue: JSTnews「さきがける科学人」vol.168（提供：JSTnews）
+  venue: 'JSTnews「さきがける科学人」vol.168（提供：JSTnews <a href="https://www.jst.go.jp/pr/jst-news/" target="_blank">https://www.jst.go.jp/pr/jst-news/</a>）'
   venue_en: 'JSTnews "Sakigake Kagakujin" Vol. 168 (Courtesy of JSTnews)'
   format: interview
   lang: ja
