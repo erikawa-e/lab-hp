@@ -70,6 +70,7 @@ tabs: true
     <div class="links">
       <span class="btn btn-sm z-depth-0" style="background-color:#f0f0f0; color:#555; cursor:default;">{{ act.format }}</span>
       {% if act.url %}<a href="{{ act.url }}" class="btn btn-sm z-depth-0" role="button" target="_blank">リンク</a>{% endif %}
+      {% if act.url2 %}<a href="{{ act.url2 | relative_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank">{{ act.url2_label | default: "リンク2" }}</a>{% endif %}
     </div>
   </td>
 </tr>

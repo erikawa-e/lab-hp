@@ -1,4 +1,19 @@
 - year: 2026
+  date: "Oct 2026"
+  date_ja: "2026年10月"
+  sort_date: "2026-10-01"
+  presenter_html: '<span class="author"><em>川上恵里加</em></span>'
+  presenter_en_html: '<span class="author"><em>Erika Kawakami</em></span>'
+  title: 液体ヘリウムや固体ネオンの「浮揚電子」用い量子コンピューターの高性能量子ビットを研究
+  venue: JSTnews「さきがける科学人」vol.168（提供：JSTnews）
+  venue_en: 'JSTnews "Sakigake Kagakujin" Vol. 168 (Courtesy of JSTnews)'
+  format: interview
+  lang: ja
+  url: https://www.jst.go.jp/pr/jst-news/backnumber/2026/202610/pdf/2026_10_p16.pdf
+  url2: assets/pdf/jstnews_2026_10_vol168.pdf
+  url2_label: PDF
+
+- year: 2026
   date: "Sep 2026"
   date_ja: "2026年9月"
   sort_date: "2026-09-01"
