@@ -28,7 +28,7 @@ nav_order: 2
 | Technical Scientist | Ivan Grytsenko |
 | Postdoc | Asher Jennings &nbsp; [Profile](https://sites.google.com/view/febqi/members/ash) |
 | Postdoc | Jun Wang |
-| IPA Student | Yiran Tian |
+| IPA Student | Yiran Tian &nbsp; [PhD thesis](https://arxiv.org/pdf/2601.21313) |
 | Trainee | Hochan Chung |
 | Trainee | Takuma Hirahara |
 | Research Part Timer | Oleksiy Rybalko |
