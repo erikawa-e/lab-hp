@@ -72,7 +72,7 @@ thumbnail: assets/img/plasmon_mode_shape.png
 
 **[Strong Coupling Between RF Photons and Plasmons of Electrons on Liquid Helium](https://www.nature.com/articles/s41467-026-77527-8)**
 Asher Jennings\*, Ivan Grytsenko, Thomas Giovansili, Itay Josef Barabash, Oleksiy Rybalko, Yiran Tian, Jun Wang, Hiroki Ikegami, and Erika Kawakami\*
-*Nature Communications* (2026)
+*Nature Communications 17, 10688 (2026)*
 
 ## 補足説明
 
