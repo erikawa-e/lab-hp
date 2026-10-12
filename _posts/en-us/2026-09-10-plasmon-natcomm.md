@@ -72,7 +72,7 @@ Furthermore, "parametric driving" — periodically modulating the electron confi
 
 **[Strong Coupling Between RF Photons and Plasmons of Electrons on Liquid Helium](https://www.nature.com/articles/s41467-026-77527-8)**
 Asher Jennings\*, Ivan Grytsenko, Thomas Giovansili, Itay Josef Barabash, Oleksiy Rybalko, Yiran Tian, Jun Wang, Hiroki Ikegami, and Erika Kawakami\*
-*Nature Communications 17, 10688 (2026)*
+*Nat. Commun. 17, 10688 (2026)*
 
 ## Notes
 
