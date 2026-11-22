@@ -37,7 +37,8 @@
   lang: en
   title: "Cryogenic Tunnel-Diode Oscillator for Qubit Readout"
   conference: "37th International Conference on the Physics of Semiconductors (ICPS 2026)"
-  presenter_html: '<span class="author"><u>Ivan Grytsenko</u>, Sander van Haagen, <u>Asher Jennings</u>, <u>Jun Wang</u>, <u>Yiran Tian</u>, <u>Oleksiy Rybalko</u>, and <u>Erika Kawakami</u></span>'
+  presenter_html: '<span class="author"><u>Ivan Grytsenko</u>, Sander van Haagen, <u>Asher Jennings</u>, <u>Jun Wang</u>, <u>Yiran Tian</u>, <u>Oleksiy Rybalko</u>, and <u>Erika Kawakami</u><sup>*</sup></span>'
+  reviewed: true
   venue: "Keio Plaza Hotel Tokyo, Japan"
   url: https://icps2026.jp/
 
@@ -47,7 +48,8 @@
   lang: en
   title: "Strong Coupling Between RF Photons and Plasmons of Electrons on Liquid Helium"
   conference: "37th International Conference on the Physics of Semiconductors (ICPS 2026)"
-  presenter_html: '<span class="author"><u>Asher Jennings</u>, <u>Ivan Grytsenko</u>, Thomas Giovansili, Itay Josef Barabash, <u>Oleksiy Rybalko</u>, <u>Yiran Tian</u>, <u>Jun Wang</u>, Hiroki Ikegami, and <u>Erika Kawakami</u></span>'
+  presenter_html: '<span class="author"><u>Asher Jennings</u><sup>*</sup>, <u>Ivan Grytsenko</u>, Thomas Giovansili, Itay Josef Barabash, <u>Oleksiy Rybalko</u>, <u>Yiran Tian</u>, <u>Jun Wang</u>, Hiroki Ikegami, and <u>Erika Kawakami</u></span>'
+  reviewed: true
   venue: "Keio Plaza Hotel Tokyo, Japan"
   url: https://icps2026.jp/
 
@@ -57,7 +59,8 @@
   lang: en
   title: "Nanoscale Metrology of Solid Neon Films"
   conference: "37th International Conference on the Physics of Semiconductors (ICPS 2026)"
-  presenter_html: '<span class="author"><u>Hochan Chung</u>, <u>Ivan Grytsenko</u>, <u>Oleksiy Rybalko</u>, <u>Asher Jennings</u>, <u>Jun Wang</u>, <u>Yiran Tian</u>, and <u>Erika Kawakami</u></span>'
+  presenter_html: '<span class="author"><u>Hochan Chung</u>, <u>Ivan Grytsenko</u>, <u>Oleksiy Rybalko</u>, <u>Asher Jennings</u>, <u>Jun Wang</u>, <u>Yiran Tian</u>, and <u>Erika Kawakami</u><sup>*</sup></span>'
+  reviewed: true
   venue: "Keio Plaza Hotel Tokyo, Japan"
   url: https://icps2026.jp/
 
